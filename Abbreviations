@@ -1,0 +1,95 @@
+;;-*-coding: emacs-mule;-*-
+(define-abbrev-table 'awk-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'c++-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'c-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'comint-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'fundamental-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'global-abbrev-table '(
+    ("tvelx" "" msf-abbrev-generatedfunc-global-tvelx 0)
+    ("tvmx" "" msf-abbrev-generatedfunc-global-tvmx 0)
+    ("tvx" "" msf-abbrev-generatedfunc-global-tvx 0)
+    ))
+
+(define-abbrev-table 'html-helper-mode-abbrev-table '(
+    ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 1)
+    ("nfjsx" "" msf-abbrev-generatedfunc-html-mode-nfjsx 0)
+    ("upconfx" "" msf-abbrev-generatedfunc-html-mode-upconfx 0)
+    ))
+
+(define-abbrev-table 'html-mode-abbrev-table '(
+    ("10waysx" "<span style=\"font-weight: bold;\">10 Ways to Improve Your Code</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-10_Ways_to_Improve_Your_Code.zip\">handouts</a>]  [<a href=\"downloads/conferences/10ways_to_improve_your_code_samples.zip\"><i>samples</i></a>]</span>" nil 1)
+    ("jrubyx" "<span style=\"font-weight: bold;\">Introduction to JRuby </span><span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Intro_to_JRuby.zipf\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Introduction_to_JRuby-samples.zip\">samples</a>]</span>" nil 1)
+    ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 2)
+    ("metax" "<span style=\"font-weight: bold;\">Meta-programming /J?Ruby/</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-programming_Ruby.zip\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-Programming_ruby-samples.zip\">samples</a>]</span>" nil 1)
+    ("metricsx" "<span style=\"font-weight: bold;\">Metrics Driven Agile Development</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Code_Metrics_and_Analysis.zip\">handouts</a>] [<a href=\"downloads/conferences/canonical/Neal_Ford-Metrics_Driven_Agile_Development-samples.zip\">samples</a>]</span>" nil 2)
+    ("minglex" "<span style=\"font-weight: bold;\">Agile Project Management (featuring Mingle)</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Agile_Project_Management_and_Mingle-handouts.pdf\">handouts</a>] [<a href=\"downloads/conferences/canonical/Neal_Ford-Metrics_Driven_Agile_Development-samples.zip\">samples</a>]</span>	" nil 1)
+    ("nfjsx" "" msf-abbrev-generatedfunc-html-mode-nfjsx 0)
+    ("patternsx" "<span style=\"font-weight: bold;\">\"Design Patterns\" in Dynamic Languages</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Design_Patterns_in_Dynamic_Languages.zip\">slides</a>]</span>" nil 4)
+    ("pragxpx" "<span style=\"font-weight: bold;\">Pragmatic eXtreme Programming</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Pragmatic_XP.zip\">slides</a>]</span>" nil 1)
+    ("punchlistx" "<span style=\"font-weight: bold;\">Web Punchlist: Making Your Web Applications Suck Less</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Web_Punchlist.zip\">handouts</a>]</span>" nil 1)
+    ("regexx" "<span style=\"font-weight: bold;\">Regular Expressions in Java</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Regex_in_Java.zip\">handouts</a>]</span><span style=\"font-style: italic;\">]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Regex-samples.zip\">samples</a>]</span>" nil 1)
+    ("soax" "<span style=\"font-weight: bold;\">Evolutionary SOA</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Evolutionary_SOA.zip\">handouts</a>]</span>" nil 3)
+    ("tddx" "<span style=\"font-weight: bold;\">Test Driven Design</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Test_Driven_Design.zip\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Test_Driven_Design-samples.zip\">samples</a>]</span>" nil 2)
+    ("upconfx" "" msf-abbrev-generatedfunc-html-mode-upconfx 0)
+    ))
+
+(define-abbrev-table 'idl-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'java-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'lisp-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'markdown-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'muse-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'objc-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'outline-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'pike-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'ruby-mode-abbrev-table '(
+    ("ase" "assert_equal " nil 3)
+    ("rw" "attr_accessor " nil 1)
+    ))
+
+(define-abbrev-table 'select-tags-table-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'sgml-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'shell-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'text-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'vc-annotate-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'vc-dired-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'vc-git-log-view-mode-abbrev-table '(
+    ))
+

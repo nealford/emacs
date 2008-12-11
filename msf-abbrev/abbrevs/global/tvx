@@ -1,0 +1,55 @@
+###### Values
+# airfare => "Airfare & Upgrades"
+# airfare_change_fees => "Airfare Change Fees"
+# book => "Books"
+# books => "Books"
+# conference => "Conference"
+# conferences => "Conference"
+# flight => "Airfare & Upgrades"
+# flights => "Airfare & Upgrades"
+# flight_change => "Airfare Change Fees"
+# gas => "Gas"
+# hotel => "Hotel"
+# hotels => "Hotel"
+# internet => "High Speed Internet"
+# meal => "Business Meals"
+# meals => "Business Meals"
+# mileage => "Mileage and Tolls"
+# other => "Other"
+# phone => "Telephone"
+# postage => "Postage & Shipping"
+# rental => "Car Rental"
+# rental_car => "Car Rental"
+# shipping => "Postage & Shipping"
+# supplies => "Office Supplies"
+# taxi => "Local Transportation"
+# taxis => "Local Transportation"
+# transport => "Local Transportation"
+
+########
+# expense type, amount, description, vendor, payment type, attendees 
+
+set project to <query "project => ">
+
+start date is 2008-<query "month => ">-<query "day => ">
+
+mon
+	flight, <query "flight amount => ">, <query "Description => ">, <query "Carrier => ">, tw
+
+payment card
+meals
+attendees me
+# amount, description, venue
+mon #
+
+tue #
+
+wed #
+
+thu #
+
+fri #
+
+sat #
+
+sun #
