@@ -1,5 +1,5 @@
 ;; setup load path
-(setq load-path (cons "~/dev/emacs" load-path))
+(setq load-path (cons "~/work/emacs" load-path))
 
 ;; turn on flyspell mode
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
@@ -19,7 +19,7 @@
 (setq auto-mode-alist (cons '("\\.html?$" . html-mode) auto-mode-alist))
 
 ;; load up msf-abbrevs
-(add-to-list 'load-path "~/dev/emacs/msf-abbrev")
+(add-to-list 'load-path "~/work/emacs/msf-abbrev")
 ;; ensure abbrev mode is always on
 (setq-default abbrev-mode t)
 
@@ -33,7 +33,7 @@
 
 (require 'msf-abbrev)
 (setq msf-abbrev-verbose t) ;; optional
-(setq msf-abbrev-root "~/dev/emacs/msf-abbrev/abbrevs")
+(setq msf-abbrev-root "~/work/emacs/msf-abbrev/abbrevs")
 (global-set-key (kbd "C-c l") 'msf-abbrev-goto-root)
 (global-set-key (kbd "C-c a") 'msf-abbrev-define-new-abbrev-this-mode)
 (msf-abbrev-load)
