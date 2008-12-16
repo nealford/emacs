@@ -33,9 +33,11 @@ set project to <query "project => ">
 
 start date is 2008-<query "month => ">-<query "day => ">
 
+### "Normal" stuff ###
 mon
 	flight, <query "flight amount => ">, <query "Description => ">, <query "Carrier => ">, tw
 
+### meals ###
 payment card
 meals
 attendees me
