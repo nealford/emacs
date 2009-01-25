@@ -1,4 +1,7 @@
 ;;-*-coding: emacs-mule;-*-
+(define-abbrev-table 'apropos-mode-abbrev-table '(
+    ))
+
 (define-abbrev-table 'awk-mode-abbrev-table '(
     ))
 
@@ -12,6 +15,11 @@
     ))
 
 (define-abbrev-table 'fundamental-mode-abbrev-table '(
+    ("icodex" "" msf-abbrev-generatedfunc-nxml-mode-icodex 0)
+    ("ifigx" "" msf-abbrev-generatedfunc-nxml-mode-ifigx 0)
+    ("ilistingx" "" msf-abbrev-generatedfunc-nxml-mode-ilistingx 0)
+    ("incodex" "" msf-abbrev-generatedfunc-nxml-mode-incodex 0)
+    ("ipx" "" msf-abbrev-generatedfunc-nxml-mode-ipx 0)
     ))
 
 (define-abbrev-table 'global-abbrev-table '(
@@ -29,6 +37,7 @@
 (define-abbrev-table 'html-mode-abbrev-table '(
     ("10waysx" "<span style=\"font-weight: bold;\">10 Ways to Improve Your Code</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-10_Ways_to_Improve_Your_Code.zip\">handouts</a>]  [<a href=\"downloads/conferences/10ways_to_improve_your_code_samples.zip\"><i>samples</i></a>]</span>" nil 1)
     ("jrubyx" "<span style=\"font-weight: bold;\">Introduction to JRuby </span><span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Intro_to_JRuby.zipf\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Introduction_to_JRuby-samples.zip\">samples</a>]</span>" nil 1)
+    ("lamx" "<span><b>Keynote: On the Lam from the Furniture Police</b></span> [<i><a href=\"downloads/conferences/Neal_Ford-On_the_Lam_from_the_Furniture_Police-slides.pdf\">slides</i>]" nil 1)
     ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 2)
     ("metax" "<span style=\"font-weight: bold;\">Meta-programming /J?Ruby/</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-programming_Ruby.zip\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-Programming_ruby-samples.zip\">samples</a>]</span>" nil 1)
     ("metricsx" "<span style=\"font-weight: bold;\">Metrics Driven Agile Development</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Code_Metrics_and_Analysis.zip\">handouts</a>] [<a href=\"downloads/conferences/canonical/Neal_Ford-Metrics_Driven_Agile_Development-samples.zip\">samples</a>]</span>" nil 2)
