@@ -9,9 +9,13 @@
 (set-keyboard-coding-system 'mac-roman)
 ;; (mac-key-mode)
 (setq mac-option-modifier 'meta)
-(setq mac-command-key-is-meta nil)
+;;(setq mac-command-key-is-meta nil)
 
 (put 'downcase-region 'disabled nil)
+
+;;;;;;;;;;;;;;;;
+;; always use spaces instead of tabs
+(setq-default indent-tabs-mode nil)
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -22,7 +26,7 @@
 
 ;; turn on flyspell mode
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
-;(setq-default flyspell-mode t)
+(setq-default flyspell-mode t)
 
 ;;;;;;;;;;;;;;;;
 ;; auto-load for flyspell mode
@@ -31,16 +35,13 @@
 
 ;;;;;;;;;;;;;;;;
 ;; light symbol
-
-;; load light-symbol
 (autoload 'light-symbol "light-symbol" "Float-over highlighting for symbols." t)
 
 ;;;;;;;;;;;;;;;;
 ;; ido
-
-;; turn on ido.el
 (require 'ido)
 (ido-mode t)
+(setq ido-enable-flex-matching t)
 
 ;;;;;;;;;;;;;;;;
 ;; load up msf-abbrevs
