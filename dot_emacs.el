@@ -1,6 +1,15 @@
 ;; setup load path
 (setq load-path (cons "~/work/emacs" load-path))
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; language modes
+
+
+;;;;;;;;;;;;;;;;
+;; scala
+(add-to-list 'load-path "~/work/emacs/scala")  
+(require 'scala-mode-auto)
+
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; customizations
@@ -22,11 +31,27 @@
 ;; load some handy extensions
 
 ;;;;;;;;;;;;;;;;
+;; ack
+(require 'ack)
+
+;;;;;;;;;;;;;;;;
 ;; flyspell
 
 ;; turn on flyspell mode
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
 (setq-default flyspell-mode t)
+
+
+;;;;;;;;;;;;;;;;
+;; paraedit
+(autoload 'paredit-mode "paredit" "Minor mode for pseudo-structurally editing Lisp code." t)
+
+
+;;;;;;;;;;;;;;;;
+;; magit (git support)
+(require 'magit)
+
+
 
 ;;;;;;;;;;;;;;;;
 ;; auto-load for flyspell mode
