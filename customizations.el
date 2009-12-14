@@ -4,14 +4,18 @@
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
  '(aquamacs-additional-fontsets nil t)
- '(aquamacs-customization-version-id 163 t)
+ '(aquamacs-customization-version-id 172 t)
  '(aquamacs-styles-mode t nil (color-theme))
- '(default-frame-alist (quote ((tool-bar-lines . 0) (vertical-scroll-bars . right) (cursor-type . box) (alpha 85 75) (background-toolbar-color . "#cccccccccccc") (bottom-toolbar-shadow-color . "#7a7a7a7a7a7a") (top-toolbar-shadow-color . "#f5f5f5f5f5f5") (color-theme-name . color-theme-arjen) (modeline . t) (fringe) (background-mode . dark) (menu-bar-lines . 1) (right-fringe . 11) (left-fringe . 3) (border-color . "black") (cursor-color . "yellow") (mouse-color . "sienna1") (background-color . "black") (foreground-color . "White") (font . "-apple-monaco-medium-r-normal--12-0-72-72-m-0-iso10646-1"))))
+ '(default-frame-alist (quote ((tool-bar-lines . 0) (vertical-scroll-bars . right) (cursor-type . box) (background-toolbar-color . "#cccccccccccc") (bottom-toolbar-shadow-color . "#7a7a7a7a7a7a") (top-toolbar-shadow-color . "#f5f5f5f5f5f5") (color-theme-name . color-theme-arjen) (modeline . t) (fringe) (background-mode . dark) (menu-bar-lines . 1) (right-fringe . 11) (left-fringe . 3) (border-color . "black") (cursor-color . "yellow") (mouse-color . "sienna1") (background-color . "black") (foreground-color . "White") (font . "-apple-monaco-medium-r-normal--12-0-72-72-m-0-iso10646-1"))))
+ '(mac-command-modifier (quote alt))
+ '(mac-font-panel-mode nil)
  '(nxml-slash-auto-complete-flag t)
  '(nxml-syntax-highlight-flag t)
  '(show-paren-mode nil)
+ '(speedbar-use-images nil)
  '(tabbar-mode nil nil (tabbar))
- '(text-mode-hook (quote (text-mode-hook-identify)))
+ '(text-mode-hook (quote (smart-spacing-mode text-mode-hook-identify)))
+ '(tool-bar-mode nil)
  '(transient-mark-mode t))
 
 (custom-set-faces

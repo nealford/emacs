@@ -5,5 +5,5 @@
 ;; Use this file in place of ~/.emacs (which is loaded as well.)
 
 ;; frame transparency (1st value is focus window, 2nd is other)
-(add-to-list 'default-frame-alist '(alpha . (85 75)))
+;; (add-to-list 'default-frame-alist '(alpha . (85 75)))
 

@@ -7,12 +7,18 @@
 
 ;;;;;;;;;;;;;;;;
 ;; scala
-(add-to-list 'load-path "~/work/emacs/scala")  
-(require 'scala-mode-auto)
-
+;;(add-to-list 'load-path "~/work/emacs/scala")  
+;;(require 'scala-mode-auto)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; customizations
+
+;;;;;;;;;;;;;;;;
+;; color theme
+(add-to-list 'load-path "~/work/emacs/color-theme")
+(require 'color-theme)
+(color-theme-initialize)
+(color-theme-arjen)
 
 ;; set up alt key to work as META on Mac
 (set-keyboard-coding-system 'mac-roman)
@@ -32,35 +38,20 @@
 
 ;;;;;;;;;;;;;;;;
 ;; ack
-(require 'ack)
+(require 'ack)    
+
+;;;;;;;;;;;;;;;;
+;; docbook
+(autoload 'docbook-xml-mode "docbook-xml-mode" "Major mode for Docbook" t)
 
 ;;;;;;;;;;;;;;;;
 ;; flyspell
-
 ;; turn on flyspell mode
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
 (setq-default flyspell-mode t)
-
-
-;;;;;;;;;;;;;;;;
-;; paraedit
-(autoload 'paredit-mode "paredit" "Minor mode for pseudo-structurally editing Lisp code." t)
-
-
-;;;;;;;;;;;;;;;;
-;; magit (git support)
-(require 'magit)
-
-
-
-;;;;;;;;;;;;;;;;
 ;; auto-load for flyspell mode
 (dolist (hook '(markdown-mode-hook))
   (add-hook hook (lambda () (flyspell-mode 1))))
-
-;;;;;;;;;;;;;;;;
-;; light symbol
-(autoload 'light-symbol "light-symbol" "Float-over highlighting for symbols." t)
 
 ;;;;;;;;;;;;;;;;
 ;; ido
@@ -69,13 +60,41 @@
 (setq ido-enable-flex-matching t)
 
 ;;;;;;;;;;;;;;;;
+;; light symbol
+(autoload 'light-symbol "light-symbol" "Float-over highlighting for symbols." t)
+
+;;;;;;;;;;;;;;;;
+;; magit (git support)
+(require 'magit)
+
+;;;;;;;;;;;;;;;;
+;; load up modes for msf-abbrev
+(require 'ruby-mode)
+
+;;;;;;;;;;;;;;;;
 ;; load up msf-abbrevs
 (add-to-list 'load-path "~/work/emacs/msf-abbrev")
 ;; ensure abbrev mode is always on
 (setq-default abbrev-mode t)
-
 ;; do not bug me about saving my abbreviations
-;;(setq save-abbrevs nil)
+(setq save-abbrevs nil)
+
+
+;;;;;;;;;;;;;;;;
+;; paraedit
+(autoload 'paredit-mode "paredit" "Minor mode for pseudo-structurally editing Lisp code." t)
+
+;;;;;;;;;;;;;;;;
+;; wrap-region
+(add-to-list 'load-path "~/work/emacs/wrap-region.el")
+(require 'wrap-region)
+(wrap-region-mode t)
+(add-hook 'ruby-mode-hook
+          '(lambda() (wrap-region-mode t)
+))
+(add-hook 'markdown-mode-hook
+          '(lambda() (wrap-region-mode t)
+))
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -129,3 +148,47 @@
 ;; (require 'slime)
 ;; (push (list 'clisp-2.35 (list "~/bin/lispbox-0.7/clisp-2.35/bin/clisp" "-ansi" "-K" "full" "-B" "/Applications/Lispbox/clisp-2.35/lib/clisp")) slime-lisp-implementations)
 ;; (slime-setup)
+(custom-set-variables
+  ;; custom-set-variables was added by Custom.
+  ;; If you edit it by hand, you could mess it up, so be careful.
+  ;; Your init file should contain only one such instance.
+  ;; If there is more than one, they won't work right.
+ '(longlines-wrap-follows-window-size t)
+ '(mac-command-modifier (quote alt))
+ '(mac-font-panel-mode nil)
+ '(speedbar-use-images nil)
+ '(tool-bar-mode nil))
+(custom-set-faces
+  ;; custom-set-faces was added by Custom.
+  ;; If you edit it by hand, you could mess it up, so be careful.
+  ;; Your init file should contain only one such instance.
+  ;; If there is more than one, they won't work right.
+ )
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+(when
+    (load
+     (expand-file-name "~/.emacs.d/elpa/package.el"))
+  (package-initialize))
+;; clojure-mode
+(add-to-list 'load-path "~/opt/clojure-mode")
+(require 'clojure-mode)
+;; swank-clojure
+(add-to-list 'load-path "~/opt/swank-clojure")
+(require 'swank-clojure-autoload)
+(swank-clojure-config
+ (setq swank-clojure-jar-path "~/.clojure/clojure.jar")
+  (setq swank-clojure-extra-classpaths
+         (list "~/.clojure/clojure-contrib.jar")))
+;; slime
+(eval-after-load "slime"
+  '(progn (slime-setup '(slime-repl))))
+
+(add-to-list 'load-path "~/opt/slime")
+(require 'slime)
+(slime-setup)

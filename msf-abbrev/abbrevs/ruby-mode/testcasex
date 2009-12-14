@@ -1,0 +1,15 @@
+require 'test/unit'
+require 'mocha'
+
+require File.dirname(__FILE__) + '/../lib/<query "test file name ? ">'
+
+class <query "test class name ? "> < Test::Unit::TestCase
+
+  context '<query "first test context ? ">' do
+
+    should '<query "first should test ? ">' do
+      <cursor>
+    end
+  end
+
+end

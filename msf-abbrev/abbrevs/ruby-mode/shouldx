@@ -1,0 +1,3 @@
+should '<query "name of the should ?">' do
+  <cursor>
+end

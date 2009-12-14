@@ -1,4 +1,4 @@
 <figure>
-    <heading refname="<query "refname ? "> type="figure" alttoc=""><query "caption ? "></heading>
-    <img src="<query "src ? "> width="<query "width ? ">" height="<query "height ? ">" alt="<query "alt ? ">" />
+    <heading refname="<query "refname ? ">" type="figure" alttoc=""><query "caption ? "></heading>
+    <img src="<query "src ? ">" width="<query "width ? ">" height="<query "height ? ">" alt="<query "alt ? ">" />
 </figure>

@@ -1,4 +1,7 @@
 ;;-*-coding: emacs-mule;-*-
+(define-abbrev-table 'ack-mode-abbrev-table '(
+    ))
+
 (define-abbrev-table 'apropos-mode-abbrev-table '(
     ))
 
@@ -11,15 +14,23 @@
 (define-abbrev-table 'c-mode-abbrev-table '(
     ))
 
+(define-abbrev-table 'change-log-mode-abbrev-table '(
+    ))
+
 (define-abbrev-table 'comint-mode-abbrev-table '(
     ))
 
+(define-abbrev-table 'diff-mode-abbrev-table '(
+    ))
+
 (define-abbrev-table 'fundamental-mode-abbrev-table '(
+    ("headingx" "" msf-abbrev-generatedfunc-nxml-mode-headingx 0)
     ("icodex" "" msf-abbrev-generatedfunc-nxml-mode-icodex 0)
     ("ifigx" "" msf-abbrev-generatedfunc-nxml-mode-ifigx 0)
     ("ilistingx" "" msf-abbrev-generatedfunc-nxml-mode-ilistingx 0)
     ("incodex" "" msf-abbrev-generatedfunc-nxml-mode-incodex 0)
     ("ipx" "" msf-abbrev-generatedfunc-nxml-mode-ipx 0)
+    ("seeresourcesx" "(see <a href=\"#resources\">Resources</a>)" nil 4)
     ))
 
 (define-abbrev-table 'global-abbrev-table '(
@@ -29,27 +40,39 @@
     ))
 
 (define-abbrev-table 'html-helper-mode-abbrev-table '(
-    ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 1)
+    ("mechanicsx" "<b>Productive Programmer: Mechanics </b><i>[<a href=\"http://github.com/nealford/presentations\">slides</a>]</i>" nil 1)
     ("nfjsx" "" msf-abbrev-generatedfunc-html-mode-nfjsx 0)
+    ("slidex" "" msf-abbrev-generatedfunc-html-mode-slidex 0)
     ("upconfx" "" msf-abbrev-generatedfunc-html-mode-upconfx 0)
     ))
 
 (define-abbrev-table 'html-mode-abbrev-table '(
-    ("10waysx" "<span style=\"font-weight: bold;\">10 Ways to Improve Your Code</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-10_Ways_to_Improve_Your_Code.zip\">handouts</a>]  [<a href=\"downloads/conferences/10ways_to_improve_your_code_samples.zip\"><i>samples</i></a>]</span>" nil 1)
-    ("jrubyx" "<span style=\"font-weight: bold;\">Introduction to JRuby </span><span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Intro_to_JRuby.zipf\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Introduction_to_JRuby-samples.zip\">samples</a>]</span>" nil 1)
-    ("lamx" "<span><b>Keynote: On the Lam from the Furniture Police</b></span> [<i><a href=\"downloads/conferences/Neal_Ford-On_the_Lam_from_the_Furniture_Police-slides.pdf\">slides</i>]" nil 1)
-    ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 2)
-    ("metax" "<span style=\"font-weight: bold;\">Meta-programming /J?Ruby/</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-programming_Ruby.zip\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Meta-Programming_ruby-samples.zip\">samples</a>]</span>" nil 1)
-    ("metricsx" "<span style=\"font-weight: bold;\">Metrics Driven Agile Development</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Code_Metrics_and_Analysis.zip\">handouts</a>] [<a href=\"downloads/conferences/canonical/Neal_Ford-Metrics_Driven_Agile_Development-samples.zip\">samples</a>]</span>" nil 2)
-    ("minglex" "<span style=\"font-weight: bold;\">Agile Project Management (featuring Mingle)</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Agile_Project_Management_and_Mingle-handouts.pdf\">handouts</a>] [<a href=\"downloads/conferences/canonical/Neal_Ford-Metrics_Driven_Agile_Development-samples.zip\">samples</a>]</span>	" nil 1)
+    ("10waysx" "<span style=\"font-weight: bold;\">10 Ways to Improve Your Code</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\"><i>samples</i></a>]</span>" nil 2)
+    ("advdslx" "<b>Advanced DSLs in Ruby</b>&nbsp;<i>[<a href=\"http://github.com/nealford/presentations\">slides]</i></a>" nil 1)
+    ("communicationsx" "<b>Communication Skills for Geeks</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 1)
+    ("dslx" "<b>Pragmatic Domain Specific Languages</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 2)
+    ("emergentx" "<b>Emergent Design &amp; Evolutionary Architecture</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 3)
+    ("handsonx" "<b>Hands-on Agile Development</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 2)
+    ("jrubyx" "<span style=\"font-weight: bold;\">Introduction to JRuby </span><span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>" nil 2)
+    ("lamx" "<b>Keynote: On the Lam from the Furniture Police</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 1)
+    ("mechanicsx" "<span style=\"font-weight: bold;\">Productive Programmer: Mechanices </span><span style=\"font-style: italic;\">[<a href=\"Neal_Ford-Productive_Programmer_-_Mechanics.zip\">slides</a>]</span>" nil 6)
+    ("metax" "<span style=\"font-weight: bold;\">Meta-programming /J?Ruby/</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>" nil 2)
+    ("metricsx" "<span style=\"font-weight: bold;\">Metrics Driven Agile Development</span> <span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>" nil 2)
+    ("minglex" "<span style=\"font-weight: bold;\">Agile Project Management (featuring Mingle)</span> <span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">handouts</a>] [<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>	" nil 1)
     ("nfjsx" "" msf-abbrev-generatedfunc-html-mode-nfjsx 0)
-    ("patternsx" "<span style=\"font-weight: bold;\">\"Design Patterns\" in Dynamic Languages</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Design_Patterns_in_Dynamic_Languages.zip\">slides</a>]</span>" nil 4)
-    ("pragxpx" "<span style=\"font-weight: bold;\">Pragmatic eXtreme Programming</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Pragmatic_XP.zip\">slides</a>]</span>" nil 1)
-    ("punchlistx" "<span style=\"font-weight: bold;\">Web Punchlist: Making Your Web Applications Suck Less</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Web_Punchlist.zip\">handouts</a>]</span>" nil 1)
-    ("regexx" "<span style=\"font-weight: bold;\">Regular Expressions in Java</span> <span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Regex_in_Java.zip\">handouts</a>]</span><span style=\"font-style: italic;\">]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Regex-samples.zip\">samples</a>]</span>" nil 1)
-    ("soax" "<span style=\"font-weight: bold;\">Evolutionary SOA</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Evolutionary_SOA.zip\">handouts</a>]</span>" nil 3)
-    ("tddx" "<span style=\"font-weight: bold;\">Test Driven Design</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"downloads/conferences/canonical/Neal_Ford-Test_Driven_Design.zip\">slides</a>]&nbsp;[<a href=\"downloads/conferences/canonical/Neal_Ford-Test_Driven_Design-samples.zip\">samples</a>]</span>" nil 2)
+    ("patternsx" "<span style=\"font-weight: bold;\">\"Design Patterns\" in Dynamic Languages</span> <span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">slides</a>]</span>" nil 5)
+    ("pragxpx" "<span style=\"font-weight: bold;\">Pragmatic eXtreme Programming</span> <span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">slides</a>]</span>" nil 1)
+    ("punchlistx" "<span style=\"font-weight: bold;\">Web Punchlist: Making Your Web Applications Suck Less</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">handouts</a>]</span>" nil 2)
+    ("railslargex" "<b>Rails in the Large - Building the World's Biggest Rails App (Neal Ford and Paul Gross)</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations/\">slides</a></i>]" nil 1)
+    ("regexx" "<span style=\"font-weight: bold;\">Regular Expressions in Java</span> <span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>" nil 2)
+    ("rwrx" "<b>Real-World Refactoring</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 4)
+    ("slidex" "" msf-abbrev-generatedfunc-html-mode-slidex 1)
+    ("smithyingx" "<b>Keynote: Smithying in the 21st Century</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</i>]" nil 1)
+    ("soax" "<span style=\"font-weight: bold;\">Evolutionary SOA</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">handouts</a>]</span>" nil 3)
+    ("tddx" "<span style=\"font-weight: bold;\">Test Driven Design</span>&nbsp;<span style=\"font-style: italic;\">[<a href=\"http://github.com/nealford/presentations\">samples</a>]</span>" nil 6)
+    ("unittestingx" "<b>Unit Testing that Sucks Less: Small Things that Make a Big Difference</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 1)
     ("upconfx" "" msf-abbrev-generatedfunc-html-mode-upconfx 0)
+    ("visx" "<b>Visualizations for Code Metrics</b>&nbsp;[<i><a href=\"http://github.com/nealford/presentations\">slides</a></i>]" nil 1)
     ))
 
 (define-abbrev-table 'idl-mode-abbrev-table '(
@@ -61,7 +84,16 @@
 (define-abbrev-table 'lisp-mode-abbrev-table '(
     ))
 
+(define-abbrev-table 'log-edit-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'magit-log-edit-mode-abbrev-table '(
+    ))
+
 (define-abbrev-table 'markdown-mode-abbrev-table '(
+    ))
+
+(define-abbrev-table 'message-mode-abbrev-table '(
     ))
 
 (define-abbrev-table 'muse-mode-abbrev-table '(
