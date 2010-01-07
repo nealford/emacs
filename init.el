@@ -1,9 +1,7 @@
-;; setup load path
-(setq load-path (cons "~/work/emacs" load-path))
+(setq load-path (cons "~/.emacs.d" load-path))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; language modes
-
 
 ;;;;;;;;;;;;;;;;
 ;; scala
@@ -15,7 +13,7 @@
 
 ;;;;;;;;;;;;;;;;
 ;; color theme
-(add-to-list 'load-path "~/work/emacs/color-theme")
+(add-to-list 'load-path "~/.emacs.d/color-theme")
 (require 'color-theme)
 (color-theme-initialize)
 (color-theme-arjen)
@@ -73,7 +71,7 @@
 
 ;;;;;;;;;;;;;;;;
 ;; load up msf-abbrevs
-(add-to-list 'load-path "~/work/emacs/msf-abbrev")
+(add-to-list 'load-path "~/.emacs.d/msf-abbrev")
 ;; ensure abbrev mode is always on
 (setq-default abbrev-mode t)
 ;; do not bug me about saving my abbreviations
@@ -86,7 +84,7 @@
 
 ;;;;;;;;;;;;;;;;
 ;; wrap-region
-(add-to-list 'load-path "~/work/emacs/wrap-region.el")
+(add-to-list 'load-path "~/.emacs.d/wrap-region.el")
 (require 'wrap-region)
 (wrap-region-mode t)
 (add-hook 'ruby-mode-hook
@@ -127,7 +125,7 @@
 ;; msf-abbrev
 (require 'msf-abbrev)
 (setq msf-abbrev-verbose t) ;; optional
-(setq msf-abbrev-root "~/work/emacs/msf-abbrev/abbrevs")
+(setq msf-abbrev-root "~/.emacs.d/msf-abbrev/abbrevs")
 (global-set-key (kbd "C-c l") 'msf-abbrev-goto-root)
 (global-set-key (kbd "C-c a") 'msf-abbrev-define-new-abbrev-this-mode)
 (msf-abbrev-load)
