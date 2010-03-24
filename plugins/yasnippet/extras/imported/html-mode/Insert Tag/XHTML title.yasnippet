@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# key: title
+# contributor: Translated from TextMate Snippet
+# name: Title
+## condition: "text.html - text.blog"
+# --
+<title>${1:`(or (and buffer-file-name
+                             (file-name-sans-extension (file-name-nondirectory buffer-file-name)))
+                        "Page Title")`}</title>

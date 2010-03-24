@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/539/trunk/extras/imported/rails-mode/ERb%20Templates
+END
+map(&3Asym_proc).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/map(&3Asym_proc).yasnippet
+END
+end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/end.yasnippet
+END
+for loop erb.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/for%20loop%20erb.yasnippet
+END
+form_for.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/form_for.yasnippet
+END
+Make Selection in to Partial.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/539/trunk/extras/imported/rails-mode/ERb%20Templates/Make%20Selection%20in%20to%20Partial.yasnippet
+END
+submit_tag.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/submit_tag.yasnippet
+END
+image_submit_tag.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/image_submit_tag.yasnippet
+END
+form_for with errors.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/form_for%20with%20errors.yasnippet
+END
+180 rails form_tag.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ERb%20Templates/180%20rails%20form_tag.yasnippet
+END

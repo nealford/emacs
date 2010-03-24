@@ -1,0 +1,172 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Functional%20Tests
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+def get request.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+05096f2e9c49d9c8ec1f028c6c724e8b
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Test Assert Redirected To (art).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+cb775e6922aa6eb4da37185a960c3dc1
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Test Assert Response (are).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+5aea43c40c386f23fa8eed971e85d96c
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_redirected_to (path plural).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+267cf34dacb971769f135ad34d9a6e7c
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_redirected_to (path).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+c2fcbc032a4f257e5674f12767887ff9
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Create functional test class.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+cd0fee5bbe62af98c30b457377912e95
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+def post request.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+a14b9923435dbfed435754abd238b13e
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert(var = assigns(3Avar)).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+e1afa3000102195e2ad3c77d3941e79a
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_redirected_to (nested path plural).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+d70bd0d0762d1945d1f09627db07d914
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_redirected_to (nested path).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+9e2da5b15509fec78f33c74fbe885122
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_rjs.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+3f0da87f9c87ec5315867a3a0724c840
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_select.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:19.000000Z
+c989b1c6135b9611c5c2f80afbf24f19
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

@@ -1,0 +1,196 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Create%20columns%20t.%20drop-down%20list
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+t_string (tcs).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+39a8947a1f82f9ac5333d6eccaeb6252
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_lock_version (tcl).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+802906ca9ae99f8af44b1680c391ff74
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_timestamp (tcts).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+69ff8a5e7ecf0366d3cdc1e48d54f396
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_float (tcf).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+0df58acb13ef80d9673e461247e67579
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_time (tcti).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+5599b5d7d4bcbdb9ace493d3ec2544ef
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_binary (tcbi).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+7b0ef6cb7ba83e04c191cb448d6a17a4
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_timestamps (tctss).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+fb9250ff6be03a7b5f124138f9d46a18
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_boolean (tcb).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+02309e22531ee4b86a03de2fa6b1301c
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_date (tcda).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+048e3c4c62f9e0cc0e55106cc85d42ca
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_decimal (tcd).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+d9baebb7c6be29742e28bbad34dbd1b6
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_references (tcr).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+98f82d26c4b29be099b688a01efe01ea
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_datetime (tcdt).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+4bc954772d89005b4138374aa037e5a1
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_integer (tci).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+3f565da3af3ff8428b06554aaef04397
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+t_text (tct).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+993399d43cb97cb93417fa4732463f01
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+

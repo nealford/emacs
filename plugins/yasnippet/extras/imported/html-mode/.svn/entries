@@ -1,0 +1,151 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/html-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-17T16:33:54.548272Z
+541
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+Insert Tag
+dir
+
+.yas-ignore-filenames-as-triggers
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Wrap Each Selected Line in OpenClose Tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+b9084cb3149cd7b644a1d1217b4b7dd2
+2009-11-06T13:49:28.633024Z
+530
+joaotavora
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Entities
+dir
+
+Wrap in qmark=.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+116ba1a6435cc0d05fdcee8803303571
+2009-11-02T18:08:20.383575Z
+527
+joaotavora
+
+.yas-parents
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+32645a5f90b3b9e9e6ff143820ef7dde
+2009-11-02T18:08:20.383575Z
+527
+joaotavora
+
+Smart returnindent for tag pairs.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+f9f3d9e559b68577ed7f9ace49f33633
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+Insert Tag Pair.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+5839d06eef2603d5e1d9b0a9f602bf99
+2009-11-02T18:08:20.383575Z
+527
+joaotavora
+
+.yas-setup.el
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+e77edc7b6690bdf8e4c4cd5ef97ee4eb
+2009-11-13T14:31:46.501702Z
+535
+joaotavora
+
+Format
+dir
+
+Conditional Comments
+dir
+
+Insert DocType
+dir
+
+Wrap Selection In Tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:15.000000Z
+05a69bfa9c557076ebed4b06e6deeb0c
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+

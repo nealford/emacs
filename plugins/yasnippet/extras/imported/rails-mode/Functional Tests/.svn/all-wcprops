@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests
+END
+def get request.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/def%20get%20request.yasnippet
+END
+Test Assert Redirected To (art).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/Test%20Assert%20Redirected%20To%20(art).yasnippet
+END
+Test Assert Response (are).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/Test%20Assert%20Response%20(are).yasnippet
+END
+assert_redirected_to (path plural).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_redirected_to%20(path%20plural).yasnippet
+END
+assert_redirected_to (path).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_redirected_to%20(path).yasnippet
+END
+Create functional test class.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/Create%20functional%20test%20class.yasnippet
+END
+def post request.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/def%20post%20request.yasnippet
+END
+assert(var = assigns(3Avar)).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert(var%20=%20assigns(3Avar)).yasnippet
+END
+assert_redirected_to (nested path plural).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_redirected_to%20(nested%20path%20plural).yasnippet
+END
+assert_redirected_to (nested path).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_redirected_to%20(nested%20path).yasnippet
+END
+assert_rjs.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_rjs.yasnippet
+END
+assert_select.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Functional%20Tests/assert_select.yasnippet
+END

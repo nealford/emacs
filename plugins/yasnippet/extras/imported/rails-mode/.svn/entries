@@ -1,0 +1,232 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+Routes
+dir
+
+rails session.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+21dd860df233f4bff226c8058acda4cb
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Scopes
+dir
+
+Create columns t. drop-down list
+dir
+
+form_for helpers
+dir
+
+Associations
+dir
+
+Indexes
+dir
+
+Drop 3A Create Table.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+a776cc8c6e0170b17c54860e9e577df3
+2009-11-17T17:34:55.786853Z
+542
+joaotavora
+
+REST methods
+dir
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Generate.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+aaa02d357149ecf6f554672bf87db6c1
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Ajax Tests
+dir
+
+Controllers
+dir
+
+.yas-setup.el
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+1ad902e74d35015c5cd1662eca19b7ed
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+ActiveSupport
+dir
+
+Fixtures
+dir
+
+Change columns t. drop-down list
+dir
+
+render
+dir
+
+Logger
+dir
+
+Callbacks
+dir
+
+Columns
+dir
+
+.yas-ignore-filenames-as-triggers
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+form_for f. drop-down list
+dir
+
+Remove 3A Add Column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+78621828e3f0810e19d9f9f146a68ee6
+2009-11-17T17:34:55.786853Z
+542
+joaotavora
+
+Functional Tests
+dir
+
+Create columns helpers
+dir
+
+ERb Templates
+dir
+
+rails params.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+68b38784fbe0ad8cdccdad00087be247
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Finders
+dir
+
+RJS
+dir
+
+Install Bundled Plugin.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+b06a983b9ee34a1e15df06964290803b
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to
+dir
+
+Layouts
+dir
+
+Unit Tests
+dir
+
+redirect_to
+dir
+
+Database
+dir
+
+Go To
+dir
+
+Change columns helpers
+dir
+
+Tables
+dir
+
+respond_to
+dir
+
+Validations
+dir
+

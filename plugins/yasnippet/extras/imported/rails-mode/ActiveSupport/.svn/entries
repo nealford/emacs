@@ -1,0 +1,64 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/ActiveSupport
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+returning do 7Cvariable7C E280A6 end.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+ab30ecd04db7634e5434d0b58c57e962
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+mattr_accessor.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+3f6e33b57d0114a3af1d005196316e75
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+cattr_accessor.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+88c2cb65ed4b4ba21c9402a6a0760f24
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

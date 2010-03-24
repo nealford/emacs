@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# key: main
+# contributor: Translated from TextMate Snippet
+# name: main()
+# --
+int main (int argc, char const *argv[])
+{
+	${1:/* code */$(when yas/modified-p (yas/exit-snippet (first (yas/snippets-at-point))) (yas/field-value 1))}$0
+	return 0;
+}

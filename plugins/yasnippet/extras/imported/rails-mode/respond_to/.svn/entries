@@ -1,0 +1,64 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/respond_to
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+wants_format.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+a2df24ecbe5dcc36ff3075e534990722
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+respond_to.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+81cab17e6f319ff864a3a178f1f50018
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+respond_to (html).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+9cffa2cd1d5ac0b3b5f5ed02caf62b84
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

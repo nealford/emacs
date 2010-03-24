@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Strings
+END
+scan(..) { match .. } (sca).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Strings/scan(..)%20%7B%20match%20..%20%7D%20(sca).yasnippet
+END
+gsub(..) { match .. } (gsu).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Strings/gsub(..)%20%7B%20match%20..%20%7D%20(gsu).yasnippet
+END
+sub(..) { match .. } (sub).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Strings/sub(..)%20%7B%20match%20..%20%7D%20(sub).yasnippet
+END

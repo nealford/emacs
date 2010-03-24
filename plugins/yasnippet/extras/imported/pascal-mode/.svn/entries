@@ -1,0 +1,160 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/pascal-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+for.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+183fcf1bb2f4661f32c5c6f03ad78bcd
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+property (prop).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+310cf118d091ec90c464d545dc462cb7
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+.yas-ignore-filenames-as-triggers
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+constructor, destructor (constructor).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+7bb7008dd3d8a2799dd4fb13ccad2944
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+try .. finally (try).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+6285e5eecd69429dc9c3f298855760bd
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+class (class).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+d7d9f7c3cbf81a09d6f78d0cb12a9afa
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+begin .. end (begin).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+0d7202d0e31791676141f12dcebe408d
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+f52a653afe7deee40eb980b57b82ea1a
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+unit (unit).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+ff674cd97c225ecc92f2e1c191b76e5f
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Newline.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+9bc09f01ae9961d428ad1d4f0be432db
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+

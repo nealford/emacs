@@ -1,0 +1,52 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Unit%20Tests
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+assert_no_difference.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+d06804999a588f0144e88577c2f4b550
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+assert_difference.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+665a83c6884af9fd8524fa89e53d7738
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

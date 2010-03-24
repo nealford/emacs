@@ -1,0 +1,64 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Indexes
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+Add 3A Remove Named Index.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+6283d3517b5c2760624a9f9d016250ef
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+Add 3A Remove Unique Index.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+e96ff81fbd45f85d90a78397b40fe3d0
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+Add 3A Remove Index.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+effa794bfad57d1833354d0fd35e218f
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+

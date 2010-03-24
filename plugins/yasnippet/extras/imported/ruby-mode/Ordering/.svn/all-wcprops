@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Ordering
+END
+randomize  (ran).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/515/trunk/extras/imported/ruby-mode/Ordering/randomize%20%20(ran).yasnippet
+END
+sort { a, b .. } (sor).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Ordering/sort%20%7B%20a,%20b%20..%20%7D%20(sor).yasnippet
+END
+sort_by { e .. } (sorb).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Ordering/sort_by%20%7B%20e%20..%20%7D%20(sorb).yasnippet
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list
+END
+form_for text_area.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20text_area.yasnippet
+END
+form_for hidden_field.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20hidden_field.yasnippet
+END
+form_for label.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20label.yasnippet
+END
+form_for file_field.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20file_field.yasnippet
+END
+form_for submit.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20submit.yasnippet
+END
+form_for password_field.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20password_field.yasnippet
+END
+form_for checkbox.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20checkbox.yasnippet
+END
+form_for radio_box.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20radio_box.yasnippet
+END
+form_for text_field.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/form_for%20f.%20drop-down%20list/form_for%20text_field.yasnippet
+END

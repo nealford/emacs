@@ -1,0 +1,52 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/ruby-mode/RDoc
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-27T16:05:05.833695Z
+546
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+yields RDoc comment.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:24.000000Z
+91319b9463ede85d13d7b6326cd402d1
+2009-11-27T16:05:05.833695Z
+546
+joaotavora
+
+RDoc documentation block.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:24.000000Z
+0bb013245c006973eabea53ebab0f7b5
+2009-11-27T16:05:05.833695Z
+546
+joaotavora
+

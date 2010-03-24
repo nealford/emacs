@@ -1,0 +1,76 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/shell-script-mode/Loops
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+for ... done (for).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+7de0243e03a796a163e01974b0878d2f
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+while (done).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+f15ec3f9118fb8533cd9bbeca6eb0bd8
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+for in done (forin).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+f8f0415aadf6c0894402a57ac5d4687e
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+until (done).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+8f1fc7525fe239025eed11beb02d4a11
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+

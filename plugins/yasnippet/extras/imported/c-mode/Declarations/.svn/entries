@@ -1,0 +1,136 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/c-mode/Declarations
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+struct.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+c8568d742ba988d911ade1aa5379b4b2
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+namespace .. (namespace).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+852c3682b633ff7c7fb74dbacbcb45cd
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Enumeration.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+ad2c1170dfd63f8476b0bc089c54da4f
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+template typename .. (template).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+c1f868f73c4e91d7e5bdd1d9af968728
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+class .. (class).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+630f65803dfe9cdb4a1ecef0f2bc111e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+if .. (if).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+01991e9d8075b8a57c533d1340416b7d
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+030 for int loop (fori).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+aa745539948cab7aff8aae8f20064cc3
+2009-08-30T22:16:44.246624Z
+491
+joaotavora
+
+Typedef.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+3c280c220487753551650918f89f8810
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+do...while loop (do).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+b2e6514d6aa8c7ae7f0dc88d8a35316a
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+

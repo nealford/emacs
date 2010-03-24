@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode
+END
+Drop 3A Create Table.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/542/trunk/extras/imported/rails-mode/Drop%203A%20Create%20Table.yasnippet
+END
+.yas-ignore-filenames-as-triggers
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/488/trunk/extras/imported/rails-mode/.yas-ignore-filenames-as-triggers
+END
+.yas-make-groups
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/488/trunk/extras/imported/rails-mode/.yas-make-groups
+END
+Remove 3A Add Column.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/542/trunk/extras/imported/rails-mode/Remove%203A%20Add%20Column.yasnippet
+END
+Generate.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Generate.yasnippet
+END
+.yas-setup.el
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode/.yas-setup.el
+END
+rails session.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/rails%20session.yasnippet
+END
+rails params.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/rails%20params.yasnippet
+END
+Install Bundled Plugin.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Install%20Bundled%20Plugin.yasnippet
+END

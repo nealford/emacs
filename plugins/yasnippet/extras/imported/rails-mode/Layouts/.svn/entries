@@ -1,0 +1,52 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Layouts
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+javascript_include_tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+1f32a08c12dff90e937acb4ea0dad6ab
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+stylesheet_link_tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+5e5d9678dc9cb50789ceb35eac360e36
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

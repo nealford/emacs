@@ -1,0 +1,148 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/link_to
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+lia.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+a5466c906c265b72e0dee87c3282034a
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+lic.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+94ac59af53a0615ab655cbd288359d59
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+lica.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+330aac53a54bcb31f569aaabfc00dfd6
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to (path).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+5ad6b60b44752fa7c7851c356a173bd6
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to (path plural).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+125b1f25d6667ce37acda517da606a21
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+liai.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+cedef57b9464371b83392b153b0e0f67
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to (nested path).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+d765c2836a84fb59de1bf042c8ba2d95
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to (nested path plural).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+72b6cc3775967eb8e15dda3374ecab9e
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+link_to model.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+b3e15097d26f6b8c71a4553d6112ea01
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+licai.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+d838ff412ddda1c4d5f9b951be7629fd
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

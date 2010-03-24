@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# type: command
+# contributor: joaotavora, adapted from TextMate HTML bundle
+# name: Insert Open/Close Tag (With Current Word)
+# expand-env: ((yas/wrap-around-region t))
+# binding: "^<"
+## condition: "text.html,"
+# --
+(yas/html-insert-tag-pair-snippet)

@@ -1,0 +1,196 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Create%20columns%20helpers
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+Create timestamp column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+4f7786d42bcbf381c479fa9673c6e2ef
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create binary column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+2678a54862a8dbea76795959b9f08b06
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create text column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+fdd5720d1c47d534f5d47a9668560f0f
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create float column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+70bdb221d377ccc484502c3889f93aeb
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create string column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+061e36fac633ebe0daded9470a4346d1
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create timestamps columns.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+5ef1a479aee1de230ed5fc8aafd0fac4
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create datetime column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+a514cad9dcc0e81afb7d552d08dd9a47
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create lock_version column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+d5205fe1b4ec52bd3bdb8705de0b33d8
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create date column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+4120fad74bc55443b7675368e06baf07
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create integer column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+727dbddd4771689b292918004a6cc9a6
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create time column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+c5d81a2671a1cee1aaa760bb729ea090
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create decimal column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+76861d66159e145196c9119911db07b0
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create boolean column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+cabd7ff90c5d518809ffe5f0f81a90fb
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Create references column.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+e2697368bd97959baac5e23fbeeae758
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+

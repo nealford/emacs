@@ -1,0 +1,12 @@
+<figure id="<query "id ? ">">
+  <title><query "title ? "></title>
+    <mediaobject>
+      <imageobject role="web">
+        <imagedata width="<query "width ? ">pc" fileref="figs/web/<query "file name ?">.png"/>
+      </imageobject>
+                
+      <imageobject role="print">
+        <imagedata width="<query "width ? ">pc" fileref="figs/print/<query "file name ?">.pdf"/>
+      </imageobject>
+    </mediaobject>
+</figure>

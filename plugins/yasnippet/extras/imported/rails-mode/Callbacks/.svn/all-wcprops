@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks
+END
+before_update.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_update.yasnippet
+END
+after_create.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_create.yasnippet
+END
+before_create.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_create.yasnippet
+END
+after_validation_on_update.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_validation_on_update.yasnippet
+END
+before_validation_on_update.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_validation_on_update.yasnippet
+END
+after_destroy.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_destroy.yasnippet
+END
+after_validation_on_create.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_validation_on_create.yasnippet
+END
+before_validation_on_create.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_validation_on_create.yasnippet
+END
+before_destroy.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_destroy.yasnippet
+END
+after_validation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_validation.yasnippet
+END
+before_validation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_validation.yasnippet
+END
+after_save.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_save.yasnippet
+END
+before_save.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/before_save.yasnippet
+END
+after_update.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Callbacks/after_update.yasnippet
+END

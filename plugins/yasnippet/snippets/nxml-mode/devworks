@@ -1,0 +1,103 @@
+# -*- mode: snippet -*-
+# name: template for IBM DeveloperWorks articles
+# key: devworks
+# binding: "direct-keybinding"
+# expand-env: ((some-var some-value))
+# --
+<?xml-stylesheet type="text/xsl" href="../xsl/5.12/dw-document-html-5.12.xsl"?>
+<dw-document xmlns:dw="http://www.ibm.com/developerWorks/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/5.12/dw-document-5.12.xsd">
+
+
+<dw-article local-site="worldwide" skill-level="3" page-end-btt-link="yes">
+
+<id cma-id="0" domino-uid="" content-id="" original="yes"/>
+
+<keywords content="emergent design, Neal Ford,$1"/>
+
+<meta-dctype>
+<cma-defined-type />
+</meta-dctype>
+
+<meta-dcsubject>
+<cma-defined-subject />
+</meta-dcsubject>
+
+<meta-last-updated day="16" month="06" year="2009" initials="efc"/>
+
+<content-area-primary name="java"/>
+
+<!--
+<tactic-code-urltactic>defaultHere</tactic-code-urltactic>
+
+<web-feed-autodiscovery feed-url="http://www.ibm.com/developerworks/podcast/channel-dwall.rss"  feed-title="IBM developerWorks podcasts" feed-type="rss"/> -->
+
+<series tactic="yes">
+<series-title>Evolutionary architecture and emergent design</series-title>
+<series-url>http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=evolutionary+architecture+emergent+design:</series-url>
+</series>
+<title>$2</title>
+
+<subtitle>$3</subtitle>
+
+<!-- <forum-url url="http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5" tactic="yes"/>
+http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5 -->
+
+<author jobtitle="Software Architect / Meme Wrangler" email-cc="jaloi@us.ibm.com" email="nford@thoughtworks.com" publish-email="yes">
+
+<bio>Neal Ford is Software Architect and Meme Wrangler at <b>Thought</b>Works, a global IT consultancy. He is also the designer and developer of applications, instructional materials, magazine articles, courseware, and video/DVD presentations, and he is the author or editor of books spanning a variety of technologies, including the most recent <a href="http://oreilly.com/catalog/9780596519780/"><i>The Productive Programmer</i></a>. He focuses on designing and building large-scale enterprise applications. He is also an internationally acclaimed speaker at developer conferences worldwide. Check out his <a href="http://www.nealford.com">Web site</a>.</bio>
+
+<img src="myphoto.jpg" width="64" height="80" alt="Neal Ford photo"/>
+<author-name>
+<Prefix/>
+<GivenName>Neal</GivenName>
+<MiddleName></MiddleName>
+<FamilyName>Ford</FamilyName>
+<Suffix/>
+</author-name>
+<company-name>ThoughtWorks</company-name>
+</author>
+
+<!--
+<author jobtitle="">
+<cma-defined/>
+</author>
+ -->
+
+<date-published day="05" month="12" year="2008"/>
+
+<!-- <date-updated day="20" month="12" year="2005" /> -->
+<abstract></abstract>
+<abstract-extended>
+$4
+</abstract-extended>
+
+<docbody> <!-- 468 -->
+$5
+</docbody>
+<trademarks>
+<trademark>Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in the United States, other countries, or both.</trademark>
+</trademarks>
+
+<resources>
+<resource resource-category="Learn"><a href="http://oreilly.com/catalog/9780596519780/"><i>The Productive Programmer</i></a> (Neal Ford, O'Reilly Media, 2008): Neal Ford's most recent book expands on a number of the topics in this series.</resource>
+
+<resource resource-category="Learn">
+Browse the
+<a href="http://www.ibm.com/developerworks/apps/SendTo?bookstore=safari">technology bookstore</a> for books on these and other technical topics.
+</resource>
+
+<resource resource-category="Learn">
+<a href="http://www.ibm.com/developerworks/java">developerWorks Java technology zone</a>: Find hundreds of articles about every aspect of Java programming.
+</resource>
+
+<resource resource-category="Discuss">
+Check out <a href="http://www.ibm.com/developerworks/blogs/">developerWorks blogs</a> and get involved in the <a href="http://www.ibm.com/developerworks/community">developerWorks community</a>.
+</resource>
+
+
+
+<resource resource-category="Get products and technologies"> Download <a href="http://www.ibm.com/developerworks/downloads/" onmouseover="linkQueryAppend(this)">IBM product evaluation versions</a> or <a href="http://www.ibm.com/developerworks/downloads/soasandbox/" onmouseover="linkQueryAppend(this)">explore the online trials in the IBM SOA Sandbox</a> and get your hands on application development tools and middleware products from DB2<reg/>, Lotus<reg/>, Rational<reg/>, Tivoli<reg/>, and WebSphere<reg/>.</resource>
+</resources>
+</dw-article>
+</dw-document>
+

@@ -1,0 +1,112 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rst-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+section 1.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+4e2e4d4aef581d132154e6606af294f0
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+.yas-ignore-filenames-as-triggers
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+section 2.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+063d61b240407465eb6e27b8d51a01de
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+section 3.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+8b89fda8a140620bcb7c1219637bbf43
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+link.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+94aa25ff0b5adc9f4fec4fdf82b9930e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+image.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:16.000000Z
+3f92dada888c635b7bd2ff262164d752
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+

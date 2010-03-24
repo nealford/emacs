@@ -1,0 +1,100 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/f90-mode/Programming%20Units
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+function.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+07d2beaf01e0bd0ec60d72a6d2add294
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+module.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+f425b88797e69105b9835fada6945cfd
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+program.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+155b8da2f14856918d774070d3f18029
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+module procedure.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+e0bb0a2a68fadf6d2a7828d303c395e7
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+subroutine.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+cf601b9034eba09011fff3ac7f647cdc
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+interface.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:13.000000Z
+07ecff9f73f471bf39f7eaf338ae16eb
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+

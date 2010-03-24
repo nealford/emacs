@@ -1,0 +1,76 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Ajax%20Tests
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+xhr delete.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+2575f3c4f74c5facbc9217f0ef47c800
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+xhr post.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+c737a03fb23b4bb4d01efdbd139402f0
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+xhr put.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+e9ddc6c4416913a63fe5c3d2061501df
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+xhr get.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+89c108cba0b9539444473c6b520de708
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

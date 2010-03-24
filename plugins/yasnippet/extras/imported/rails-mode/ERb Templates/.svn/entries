@@ -1,0 +1,136 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/ERb%20Templates
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-17T07:39:28.039094Z
+539
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+map(&3Asym_proc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+3ec1bbe24691dfa6138e2112179693d4
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+end.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+f16d2f5105411ea296c845fe2b7c14fa
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+for loop erb.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+cd1e84ee791a75a86e52224092f8cb26
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+form_for.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+66051307800007ee43061f100871a70d
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Make Selection in to Partial.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+571d849c2d147172dd1af31a4e73ba66
+2009-11-17T07:39:28.039094Z
+539
+joaotavora
+
+submit_tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+753999628aef802d8c5c469d8bdd082c
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+image_submit_tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+cec30d72cae27f2977cd11114fd0ca20
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+form_for with errors.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+779cf49dd4b38113ffcf45b929f3bcc1
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+180 rails form_tag.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:20.000000Z
+2824a16c17a86e7c509ad76791d61725
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

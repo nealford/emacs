@@ -1,0 +1,70 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/snippets/ruby-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-12-25T18:09:19.764739Z
+557
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+structure
+dir
+
+control structure
+dir
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:05.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-12-25T18:09:19.764739Z
+557
+joaotavora
+
+.yas-parents
+file
+
+
+
+
+2010-03-07T15:46:05.000000Z
+6fb0b8ba4f765c35dd7013682307e71b
+2009-12-25T14:05:23.408469Z
+549
+joaotavora
+
+definitions
+dir
+
+general
+dir
+
+echo
+dir
+
+collections
+dir
+

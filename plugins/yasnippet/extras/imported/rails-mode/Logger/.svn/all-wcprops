@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger
+END
+logger_debug.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/logger_debug.yasnippet
+END
+logger_warn.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/logger_warn.yasnippet
+END
+logger_fatal.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/logger_fatal.yasnippet
+END
+logger_error.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/logger_error.yasnippet
+END
+logger_info.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/logger_info.yasnippet
+END
+RAILS_DEFAULT_LOGGER.debug (rdb).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Logger/RAILS_DEFAULT_LOGGER.debug%20(rdb).yasnippet
+END

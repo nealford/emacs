@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: why_not_how
+# key: whynothow
+# binding: "direct-keybinding"
+# expand-env: ((some-var some-value))
+# --
+<li><b><i>Keynote</i>Why, not How</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Why_not_How(Neal_Ford).pdf">slides</a></i>]

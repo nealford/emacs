@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode/Tables
+END
+Create 3A Drop Table.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode/Tables/Create%203A%20Drop%20Table.yasnippet
+END
+Migration Create Column Continue (mccc).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Tables/Migration%20Create%20Column%20Continue%20(mccc).yasnippet
+END
+Migration Create Column (mcc).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/543/trunk/extras/imported/rails-mode/Tables/Migration%20Create%20Column%20(mcc).yasnippet
+END
+Rename Table.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode/Tables/Rename%20Table.yasnippet
+END
+Migration Drop Create Table (mdct).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/543/trunk/extras/imported/rails-mode/Tables/Migration%20Drop%20Create%20Table%20(mdct).yasnippet
+END
+Change Change Table.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/545/trunk/extras/imported/rails-mode/Tables/Change%20Change%20Table.yasnippet
+END

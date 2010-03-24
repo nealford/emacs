@@ -1,0 +1,64 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/ruby-mode/Blocks
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-27T16:05:05.833695Z
+546
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+lambda { args .. } (lam).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:27.000000Z
+88cc1dd346e92dd9ac6f3c1ad3983eb1
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+open yield block ({).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:27.000000Z
+ec01e30f11a4b98ad56c176405175b9c
+2009-11-27T16:05:05.833695Z
+546
+joaotavora
+
+do obj .. end (doo).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:27.000000Z
+b9845dd8824fe985da1b905bcd75cd86
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+

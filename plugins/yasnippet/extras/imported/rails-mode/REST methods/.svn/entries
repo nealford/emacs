@@ -1,0 +1,40 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/REST%20methods
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+def create - resource.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+dca778adf48cca538ef538aac6a68774
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

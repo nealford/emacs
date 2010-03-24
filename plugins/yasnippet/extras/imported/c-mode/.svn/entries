@@ -1,0 +1,190 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/c-mode
+http://yasnippet.googlecode.com/svn
+
+
+
+2010-02-01T10:36:42.745215Z
+559
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+.yas-ignore-filenames-as-triggers
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+stdmap (map).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+85f7b7f7b6b770c2eb5f30c03ffff4b3
+2009-10-30T16:22:39.265067Z
+523
+joaotavora
+
+fprintf.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+bc9fb4139881b956ffa68d0a6af641ab
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+#include sys header (inc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+4b3c545808894d0d6699212358ed3cc1
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+Idioms
+dir
+
+#pragma mark (mark).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+fb928e4c39c972ded32c6c2cd2bdb9f9
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+stdvector (v).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+6460e92cee3c0439e880baa9ef16efb1
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+#ifndef #define #endif.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+6bd8bb5b1e3f42a511d7ded3e9b31143
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+.yas-make-groups
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+#endif.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+abb408805135b79387fd325aca00e65c
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+
+Declarations
+dir
+
+once with #ifndef.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+0b590ffca9a7e7f6d2990fbeab3e86af
+2009-08-30T22:16:44.246624Z
+491
+joaotavora
+
+#include (inc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+439911b73ebac73515aed2490c8d77a4
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+printf .. (printf).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+2d37c20f72d9bb7e125a33304d01eef1
+2010-02-01T10:36:42.745215Z
+559
+joaotavora
+
+snprintf.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:28.000000Z
+b0286c1b159c1b3aa10f01385a9a69f4
+2009-08-30T22:16:44.246624Z
+491
+joaotavora
+

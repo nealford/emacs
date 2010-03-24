@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes
+END
+map_resource.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes/map_resource.yasnippet
+END
+map_resources.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes/map_resources.yasnippet
+END
+map_catch_all.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes/map_catch_all.yasnippet
+END
+map_named_route.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes/map_named_route.yasnippet
+END
+map_with_options.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Routes/map_with_options.yasnippet
+END

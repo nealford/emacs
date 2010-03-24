@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/521/trunk/extras/imported/python-mode/Idioms
+END
+if __name__ == '__main__'.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/488/trunk/extras/imported/python-mode/Idioms/if%20__name__%20==%20'__main__'.yasnippet
+END
+TryExceptFinally.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/521/trunk/extras/imported/python-mode/Idioms/TryExceptFinally.yasnippet
+END
+TryExcept.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/521/trunk/extras/imported/python-mode/Idioms/TryExcept.yasnippet
+END
+New Property.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/488/trunk/extras/imported/python-mode/Idioms/New%20Property.yasnippet
+END
+TryExceptElseFinally.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/521/trunk/extras/imported/python-mode/Idioms/TryExceptElseFinally.yasnippet
+END
+TryExceptElse.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/521/trunk/extras/imported/python-mode/Idioms/TryExceptElse.yasnippet
+END

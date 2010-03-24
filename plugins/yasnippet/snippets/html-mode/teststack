@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: testing entire stack
+# key: teststack
+# binding: "direct-keybinding"
+# expand-env: ((some-var some-value))
+# --
+<li><b>Testing the Entire Stack</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Testing_the_Entire_Stack(Neal_Ford).pdf">slides</a></i>]

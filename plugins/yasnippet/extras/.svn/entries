@@ -1,0 +1,57 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras
+http://yasnippet.googlecode.com/svn
+
+
+
+2010-02-10T09:25:30.317953Z
+560
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+imported
+dir
+
+textmate_import.rb
+file
+
+
+
+
+2010-03-07T15:46:31.000000Z
+05b97eaaa0373844e202d6a14ffeb56e
+2009-11-17T17:34:55.786853Z
+542
+joaotavora
+has-props
+
+textmate_mass_import.rb
+file
+
+
+
+
+2010-03-07T15:46:31.000000Z
+12fdd4abf150716afe911583c9dbb723
+2009-08-29T17:59:02.671898Z
+488
+joaotavora
+has-props
+

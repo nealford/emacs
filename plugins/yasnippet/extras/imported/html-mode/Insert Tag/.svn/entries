@@ -1,0 +1,292 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/html-mode/Insert%20Tag
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-17T16:33:54.548272Z
+541
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+XHTML table.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+c182eb86409572bef81e6e4e1675b363
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+Option.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+4682e4f42da9649f3e14f1b7b0088a23
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML body.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+886dbfeef16730fbcb2f81633b1d503d
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML link.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+4ce40f6cc27c828483296ce7c600008d
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML input.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+de0c7383074eb5a90bc40d9cbce6b4c2
+2009-11-17T16:33:54.548272Z
+541
+joaotavora
+
+XHTML style.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+3900a7349249511b1262d87232716d1a
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+XHTML head.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+29cb958572010ad9826a4ff5744bc19d
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML br.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+2c79e73a8211434893f6d9232391570e
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML form.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+9a49ba38423169349630613fc4727848
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML script.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+cd0c848b8c20a51aea6e5d0db0ae6875
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+XHTML h1.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+7cb7e0868440ae4305c2c4dd4a16dd85
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML base.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+816ab7a010433bec67488af8e4c4dec8
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+Select Box.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+c71f4ea841dc6f8254b56b4f6a4f8ef6
+2009-11-17T16:33:54.548272Z
+541
+joaotavora
+
+XHTML textarea.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+718fdc08e9cf68af653a7ff3aeed2646
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+Input with Label.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+46174d58ec7562885164648121ddfd6e
+2009-11-17T16:33:54.548272Z
+541
+joaotavora
+
+XHTML title.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+debe4caaad41cefed6b1a835083d4066
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+Fieldset.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+7d4bcef1d1e512539ba3fae67590c50d
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML div.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+e4172070ed64699be6f073a56c569601
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+Embed QT movie (movie).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+e6d407d7032ebc02e5d4cc0a41fd6ee8
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML meta.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+35523ac829d6e1aa0c314c36ec8f2d67
+2009-11-04T15:51:43.514516Z
+529
+joaotavora
+
+XHTML a mailto.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+a82458c3eac00015d8fd84da2b257418
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+XHTML script src....yasnippet
+file
+
+
+
+
+2010-03-07T15:46:14.000000Z
+8b2e786683da8c59a4be42378cdd0af1
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+

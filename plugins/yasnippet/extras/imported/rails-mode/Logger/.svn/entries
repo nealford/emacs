@@ -1,0 +1,100 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Logger
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+logger_debug.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+25c924a7d413912711df0cfa395f662b
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+logger_warn.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+6b814201eb25a0b67d98f123b9d80560
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+logger_fatal.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+6be9f3c7b1066714985d7e994d673b2b
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+logger_error.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+c0fd31510e60e763da8a897343f63426
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+logger_info.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+d1fb8396bb8d52589cadc75cc1ea5a4c
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+RAILS_DEFAULT_LOGGER.debug (rdb).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:18.000000Z
+b81b1dba134d6b61825dd8658deea491
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

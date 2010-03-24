@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection
+END
+partition { e .. } (par).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/partition%20%7B%20e%20..%20%7D%20(par).yasnippet
+END
+find { e .. } (fin).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/find%20%7B%20e%20..%20%7D%20(fin).yasnippet
+END
+reject { e .. } (rej).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/reject%20%7B%20e%20..%20%7D%20(rej).yasnippet
+END
+fetch(name) { key .. } (fet).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/fetch(name)%20%7B%20key%20..%20%7D%20(fet).yasnippet
+END
+any { e .. } (any).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/any%20%7B%20e%20..%20%7D%20(any).yasnippet
+END
+classify { e .. } (clas).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/classify%20%7B%20e%20..%20%7D%20(clas).yasnippet
+END
+all { e .. } (all).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/all%20%7B%20e%20..%20%7D%20(all).yasnippet
+END
+min { a, b .. } (min).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/min%20%7B%20a,%20b%20..%20%7D%20(min).yasnippet
+END
+grep(pattern) { match .. } (gre).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/grep(pattern)%20%7B%20match%20..%20%7D%20(gre).yasnippet
+END
+collect { e .. } (col).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/collect%20%7B%20e%20..%20%7D%20(col).yasnippet
+END
+select { e .. } (sel).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/select%20%7B%20e%20..%20%7D%20(sel).yasnippet
+END
+detect { e .. } (det).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/detect%20%7B%20e%20..%20%7D%20(det).yasnippet
+END
+max { a, b .. } (max).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/max%20%7B%20a,%20b%20..%20%7D%20(max).yasnippet
+END
+find_all { e .. } (fina).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Searching%20and%20Selection/find_all%20%7B%20e%20..%20%7D%20(fina).yasnippet
+END

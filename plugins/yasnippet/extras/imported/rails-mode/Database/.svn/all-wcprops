@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Database
+END
+Rake Migrate.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Database/Rake%20Migrate.yasnippet
+END
+DB Schema Dump.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Database/DB%20Schema%20Dump.yasnippet
+END
+DB Schema Import.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Database/DB%20Schema%20Import.yasnippet
+END

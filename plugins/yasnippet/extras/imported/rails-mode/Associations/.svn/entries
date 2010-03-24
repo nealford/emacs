@@ -1,0 +1,100 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Associations
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+has_one (ho).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+0a075492c0eb229661689c09f3fcb3a0
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+has_many (hm).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+2e19b62d3f03b04c59b5013a39c1c9df
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+has_and_belongs_to_many (habtm).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+db4e8ed9de9b966e32dfce8eea6211ba
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+has_many dependent = destroy.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+5c73698080085b78665a4bee4c2c30c8
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+has_many (through).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+6920430f13f5a01003579e037929db60
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+belongs_to (bt).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+026f8356515f92c6eab129adfb322cd2
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

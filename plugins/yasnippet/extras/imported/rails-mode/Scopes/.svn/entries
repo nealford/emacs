@@ -1,0 +1,52 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Scopes
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+named_scope.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+0f0f3aacf8bff7701a86b6309fb607b4
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+named_scope lambda.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:17.000000Z
+9175d28aad69a48669aa9b280d999790
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

@@ -1,0 +1,100 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Tables
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+Create 3A Drop Table.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+de9376013dc58593d9a578920d1137ca
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Migration Create Column Continue (mccc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+946355d0fb981576bf0c9964d153f0b3
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+Migration Create Column (mcc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+908de232a857dd8999105304f2b170c4
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+Rename Table.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+e4cdb06b3067a895e7064c055191140b
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+
+Migration Drop Create Table (mdct).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+6fe5c1774a07f2e42512928f3c59bdcb
+2009-11-18T17:11:08.353523Z
+543
+joaotavora
+
+Change Change Table.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:21.000000Z
+79650531c7eb9c0d3f5340987be2d5d6
+2009-11-19T17:09:01.417711Z
+545
+joaotavora
+

@@ -1,0 +1,268 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/rails-mode/Validations
+http://yasnippet.googlecode.com/svn
+
+
+
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+validates_numericality_of if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+8aff3c55fae4261a197fb74785a39a5f
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_exclusion_of (ve).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+624859fdd5d7763b0472edbfca48aecb
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_acceptance_of.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+e234a1b158fd507f608ad0b0ad142fe0
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_format_of.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+074d59c4f6cfb6a9b59ee6c95cd0e638
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_uniqueness_of if (vuif).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+8c09467e9342c4a26b88beec99bcec41
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_uniqueness_of (vu).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+d56be8c44eb9e0157dee569369e2e554
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_presence_of (vp).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+69098774415c46cb14ec20bbc2ee79d8
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_length_of if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+5b23daff26cb09cb45de49616cf23ac7
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_confirmation_of if (vcif).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+04db0ef24578f193528212a3114b4fd1
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_associated if (vaif).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+83ecc931088ba64286d7612046e8e7f7
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_confirmation_of (vc).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+39ae208ba86b113002bc4a222e256736
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_associated (va).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+1c626df11d640c701f42752ebaa1dbd7
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_inclusion_of.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+4dfbbf45cd9fc7ca090e6bf60c045553
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_length_of (vl).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+4284603ea0c32a4d9d5fdd02a69c8e6a
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_acceptance_of if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+202cf1b1f13de121f8c8f44a86923c92
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_numericality_of.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+fe9d572bcf1da283f7a45cdeda5561ea
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_format_of if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+0e48c3b289b9351534c286959108adf3
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_presence_of if (vpif) 2.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+767c604353b33beb63ea991b46acdf91
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_inclusion_of if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+ca0a595cfaee2f83ee52d8ba0d401e07
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+
+validates_exclusion_of if (veif).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:22.000000Z
+c2ae9191429e42937017fdf68997ac5d
+2009-11-16T07:09:38.755133Z
+538
+joaotavora
+

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: evolarch
+# key: evolarch
+# binding: "direct-keybinding"
+# expand-env: ((some-var some-value))
+# --
+<li><b>Implementing Evolutionary Enterprise Architecture</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Implementing_Evolutionary_Enterprise_Architecture(Neal_Ford).pdf">slides</a></i>]

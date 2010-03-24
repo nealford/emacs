@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS
+END
+page_hide (2Aids).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_hide%20(2Aids).yasnippet
+END
+page_insert_html (position, id, partial).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_insert_html%20(position,%20id,%20partial).yasnippet
+END
+page_replace (id, partial).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_replace%20(id,%20partial).yasnippet
+END
+page_show (2Aids).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_show%20(2Aids).yasnippet
+END
+page_toggle (2Aids).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_toggle%20(2Aids).yasnippet
+END
+page_replace_html (id, partial).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_replace_html%20(id,%20partial).yasnippet
+END
+page_visual_effect (effect, id).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/RJS/page_visual_effect%20(effect,%20id).yasnippet
+END

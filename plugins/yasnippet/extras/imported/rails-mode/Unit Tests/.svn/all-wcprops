@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Unit%20Tests
+END
+assert_no_difference.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Unit%20Tests/assert_no_difference.yasnippet
+END
+assert_difference.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Unit%20Tests/assert_difference.yasnippet
+END

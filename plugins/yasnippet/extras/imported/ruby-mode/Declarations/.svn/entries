@@ -1,0 +1,256 @@
+8
+
+dir
+560
+http://yasnippet.googlecode.com/svn/trunk/extras/imported/ruby-mode/Declarations
+http://yasnippet.googlecode.com/svn
+
+
+
+2010-02-10T09:25:30.317953Z
+560
+joaotavora
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b2103351-7347-0410-aa0e-656c9fbaa8cf
+
+080 ruby case.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+6e96f0077b92ebe6c6be6496bb7cd28e
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+usage_if()  (usai).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+52a56cd62c8eb8b6e0e45b34c877c4ef
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+usrbinruby-w.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+6de2f21f06555892237ed02e5d98a4e3
+2010-02-10T09:25:30.317953Z
+560
+joaotavora
+
+application_code ..  (app).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+93a227cc7e44b2f47505f0e88d8a4874
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+until ___ end.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+9eed680fb087a80a38814e9567612a46
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+usrbinenvruby-w.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+76081f37821abed2c6e8508a300b5055
+2010-02-10T09:25:30.317953Z
+560
+joaotavora
+
+usrlocalbinruby-w.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+39426f5dd241db88ba07e039d1a006d2
+2010-02-10T09:25:30.317953Z
+560
+joaotavora
+
+unless (unless).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+64b6ab9c256557361cdb1d36c72b3187
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+def end.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+5f23f40a4638ff5f9281db579a9f49eb
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+070 ruby if.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+81e8d76fcb6b180826e54c9d5bc007cb
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+while ___ end.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+a15ee0430d551fe56e92c81effe6dbaf
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+usage_unless()  (usau).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+875d5fc14ff72d1a96edc46f978cd0d5
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+060 ruby if else.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+e98f27cb7008bfa4f476ef4250c6353e
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+elsif ___.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+5453fe1db85f670e02dd1862e8519d32
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+when.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+60b422b38b1a5d352b1f0110702f1b49
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+require .. (req).yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+28ee9d0435bf62756f39586a90ea8752
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+require_gem __.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+2c72fd19718bf9fd9d573f7b85e33518
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+
+__END__.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+1b53fb7686d1ecf8c6eabc8617314dde
+2009-10-13T13:28:14.732089Z
+515
+joaotavora
+
+Wrap in Begin Rescue End.yasnippet
+file
+
+
+
+
+2010-03-07T15:46:26.000000Z
+0925bfaf070aa2bb8961cea20422d2dd
+2009-10-29T18:01:40.070572Z
+521
+joaotavora
+

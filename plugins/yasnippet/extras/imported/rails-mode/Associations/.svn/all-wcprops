@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations
+END
+has_one (ho).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/has_one%20(ho).yasnippet
+END
+has_many (hm).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/has_many%20(hm).yasnippet
+END
+has_and_belongs_to_many (habtm).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/has_and_belongs_to_many%20(habtm).yasnippet
+END
+has_many dependent = destroy.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/has_many%20dependent%20=%20destroy.yasnippet
+END
+has_many (through).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/has_many%20(through).yasnippet
+END
+belongs_to (bt).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Associations/belongs_to%20(bt).yasnippet
+END

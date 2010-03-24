@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Hashes
+END
+hash pointer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/515/trunk/extras/imported/ruby-mode/Hashes/hash%20pointer.yasnippet
+END
+Hash.new { hash, key hashkey = .. } (Has).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Hashes/Hash.new%20%7B%20hash,%20key%20hashkey%20=%20..%20%7D%20(Has).yasnippet
+END
+hash pair ().yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/521/trunk/extras/imported/ruby-mode/Hashes/hash%20pair%20().yasnippet
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render
+END
+render (nothing) (rn).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(nothing)%20(rn).yasnippet
+END
+render (file) (rf).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(file)%20(rf).yasnippet
+END
+render (inline) (ri).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(inline)%20(ri).yasnippet
+END
+render (nothing,status) (rns).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(nothing,status)%20(rns).yasnippet
+END
+render (action)... (ra).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(action)...%20(ra).yasnippet
+END
+render (layout) (rl).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(layout)%20(rl).yasnippet
+END
+render (inline,type) (rit).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(inline,type)%20(rit).yasnippet
+END
+render (text,layout) (rtl).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(text,layout)%20(rtl).yasnippet
+END
+render (partial,object) (rpo).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(partial,object)%20(rpo).yasnippet
+END
+render (file,use_full_path) (rfu).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(file,use_full_path)%20(rfu).yasnippet
+END
+render (partial,locals) (rpl).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(partial,locals)%20(rpl).yasnippet
+END
+render (action,layout) (ral).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(action,layout)%20(ral).yasnippet
+END
+render (text,layout=3Etrue) (rtlt).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(text,layout=3Etrue)%20(rtlt).yasnippet
+END
+render (partial,collection) (rpc).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(partial,collection)%20(rpc).yasnippet
+END
+render (text) (rt).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(text)%20(rt).yasnippet
+END
+render (text,status) (rts).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(text,status)%20(rts).yasnippet
+END
+render (partial) (rp).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(partial)%20(rp).yasnippet
+END
+render (inline,locals) (ril).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(inline,locals)%20(ril).yasnippet
+END
+render (update).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(update).yasnippet
+END
+render (partial,status) (rps).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/render/render%20(partial,status)%20(rps).yasnippet
+END

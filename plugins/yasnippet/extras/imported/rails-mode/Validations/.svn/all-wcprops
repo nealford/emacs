@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations
+END
+validates_numericality_of if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_numericality_of%20if.yasnippet
+END
+validates_exclusion_of (ve).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_exclusion_of%20(ve).yasnippet
+END
+validates_acceptance_of.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_acceptance_of.yasnippet
+END
+validates_format_of.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_format_of.yasnippet
+END
+validates_uniqueness_of if (vuif).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_uniqueness_of%20if%20(vuif).yasnippet
+END
+validates_uniqueness_of (vu).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_uniqueness_of%20(vu).yasnippet
+END
+validates_presence_of (vp).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_presence_of%20(vp).yasnippet
+END
+validates_length_of if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_length_of%20if.yasnippet
+END
+validates_confirmation_of if (vcif).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_confirmation_of%20if%20(vcif).yasnippet
+END
+validates_associated if (vaif).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_associated%20if%20(vaif).yasnippet
+END
+validates_confirmation_of (vc).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_confirmation_of%20(vc).yasnippet
+END
+validates_associated (va).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_associated%20(va).yasnippet
+END
+validates_inclusion_of.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_inclusion_of.yasnippet
+END
+validates_length_of (vl).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_length_of%20(vl).yasnippet
+END
+validates_numericality_of.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_numericality_of.yasnippet
+END
+validates_acceptance_of if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_acceptance_of%20if.yasnippet
+END
+validates_format_of if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_format_of%20if.yasnippet
+END
+validates_presence_of if (vpif) 2.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_presence_of%20if%20(vpif)%202.yasnippet
+END
+validates_inclusion_of if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_inclusion_of%20if.yasnippet
+END
+validates_exclusion_of if (veif).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/Validations/validates_exclusion_of%20if%20(veif).yasnippet
+END

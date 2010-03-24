@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ActiveSupport
+END
+returning do 7Cvariable7C E280A6 end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ActiveSupport/returning%20do%207Cvariable7C%20E280A6%20end.yasnippet
+END
+mattr_accessor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ActiveSupport/mattr_accessor.yasnippet
+END
+cattr_accessor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/538/trunk/extras/imported/rails-mode/ActiveSupport/cattr_accessor.yasnippet
+END

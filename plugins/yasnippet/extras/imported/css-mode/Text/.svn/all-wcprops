@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text
+END
+text-shadow color-hex x y blur (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-shadow%20color-hex%20x%20y%20blur%20(text).yasnippet
+END
+text-align leftcenterright (txt).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-align%20leftcenterright%20(txt).yasnippet
+END
+text-shadow color-rgb x y blur (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-shadow%20color-rgb%20x%20y%20blur%20(text).yasnippet
+END
+text-indent length (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-indent%20length%20(text).yasnippet
+END
+text-shadow none (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-shadow%20none%20(text).yasnippet
+END
+text-transform capitalizeupperlower (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-transform%20capitalizeupperlower%20(text).yasnippet
+END
+text-decoration noneunderlineoverlineline-throughblink (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-decoration%20noneunderlineoverlineline-throughblink%20(text).yasnippet
+END
+text-transform none (text).yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/521/trunk/extras/imported/css-mode/Text/text-transform%20none%20(text).yasnippet
+END
