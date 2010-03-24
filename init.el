@@ -34,6 +34,11 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; load some handy extensions
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; winring - for save/restore window configurations
+;(require 'winring)
+;(winring-initialize)
+
 ;;;;;;;;;;;;;;;;
 ;; ack
 (require 'ack)    
@@ -67,7 +72,7 @@
 
 ;;;;;;;;;;;;;;;;
 ;; load up modes for msf-abbrev
-(require 'ruby-mode)
+;(require 'ruby-mode)
 
 ;;;;;;;;;;;;;;;;
 ;; load up msf-abbrevs
@@ -77,10 +82,25 @@
 ;; do not bug me about saving my abbreviations
 (setq save-abbrevs nil)
 
+;;;;;;;;;;;;;;;;
+;; yasnippet
+;(add-to-list 'load-path
+;             "~/.emacs.d/plugins/yasnippet")
+;(require 'yasnippet) ;; not yasnippet-bundle
+;(yas/initialize)
+;(yas/load-directory "~/.emacs.d/plugins/yasnippet/snippets")
 
 ;;;;;;;;;;;;;;;;
 ;; paraedit
-(autoload 'paredit-mode "paredit" "Minor mode for pseudo-structurally editing Lisp code." t)
+(autoload 'paredit-mode "paredit" "Minor mode for pseu  do-structurally editing Lisp code." t)
+
+;;;;;;;;;;;;;;;;
+;; word count minor mode
+;(setq load-path (cons (expand-file-name "~/.emacs.d") load-path))
+(autoload 'word-count-mode "word-count"
+          "Minor mode to count words." t nil)
+(global-set-key "\M-+" 'word-count-mode)
+
 
 ;;;;;;;;;;;;;;;;
 ;; wrap-region
