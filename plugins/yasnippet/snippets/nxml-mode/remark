@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: add a remark
+# key: remark
+# --
+<remark>$0</remark>

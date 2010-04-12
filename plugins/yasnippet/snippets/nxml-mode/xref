@@ -1,0 +1,4 @@
+#contributor : Neal Ford
+#name : xref
+# --
+<xref linkend="$1"/>

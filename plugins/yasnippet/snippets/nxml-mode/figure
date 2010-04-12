@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: figures (including both web and print options)
+# key: fig
+# --
+<figure id="`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$1">
+  <title>$2</title>
+    <mediaobject>
+      <imageobject role="web">
+        <imagedata width="40%" fileref="figs/web/$3.png"/>
+      </imageobject>
+                
+      <imageobject role="print">
+        <imagedata width="100%" fileref="figs/print/$3.pdf"/>
+      </imageobject>
+    </mediaobject>
+</figure>

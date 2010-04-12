@@ -1,0 +1,66 @@
+# -*- mode: snippet -*-
+# contributor : Neal Ford
+# name: ptn
+# --
+<sect1 id="`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$1">
+ <title>$2Pattern: <emphasis>$3</emphasis></title>
+
+<sect2>
+<title>Also Known As:</title>
+<para>
+$0
+</para>
+</sect2>
+
+<sect2>
+<title>Definition</title>
+<para>
+
+</para>
+
+</sect2>
+
+<sect2>
+<title>Motivation</title>
+<para>
+
+</para>
+</sect2>
+
+<sect2>
+<title>Applicability</title>
+<para>
+
+</para>
+</sect2>
+
+<sect2>
+<title>Consequences</title>
+<para>
+
+</para>
+
+</sect2>
+
+<sect2>
+<title>Mechanics</title>
+<para>
+
+</para>
+
+</sect2>
+<sect2>
+<title>Known Uses</title>
+<para>
+
+</para>
+</sect2>
+
+<sect2>
+<title>Related Patterns</title>
+<para>
+
+</para>
+</sect2>
+</sect1>
+
