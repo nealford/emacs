@@ -1,8 +1,6 @@
 # -*- mode: snippet -*-
 # name: template for IBM DeveloperWorks articles
 # key: devworks
-# binding: "direct-keybinding"
-# expand-env: ((some-var some-value))
 # --
 <?xml-stylesheet type="text/xsl" href="../xsl/5.12/dw-document-html-5.12.xsl"?>
 <dw-document xmlns:dw="http://www.ibm.com/developerWorks/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/5.12/dw-document-5.12.xsd">

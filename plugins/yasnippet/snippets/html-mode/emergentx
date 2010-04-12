@@ -1,7 +1,5 @@
 # -*- mode: snippet -*-
 # name: emergentx
 # key: emergentx
-# binding: "direct-keybinding"
-# expand-env: ((some-var some-value))
 # --
-<li><b>Implementing Emergent Design</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Implementing_Emergent_Design(Neal_Ford).pdf">slides</a></i>]
+<li><b>Emergent Design</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Emergent_Design(Neal_Ford).pdf">slides</a></i>]
