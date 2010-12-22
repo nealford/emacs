@@ -1,0 +1,12 @@
+# name: upcoming No Fluff, Just Stuff conference
+# key: nfjsx
+# --
+<tr>
+  <td style="text-align: center;"><a href="$1 "><img  alt="NFJS image" src="images/NOFL_125x125-spkr_100217.jpg" /></a></td>
+  <td>
+  <h1><a href="$1">$2 Software Symposium</a></h1>
+ <h1>$3</h1> 
+  <h1>$4, 2010</h1>
+</td></tr>
+
+$0

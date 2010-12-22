@@ -1,0 +1,13 @@
+# description: DevWorks listing reference
+#name : dw- listing
+# key: dwlisting
+# --
+<a href="#listing$1">Listing $1</a>.
+</p>
+
+<code type="section" width="100%">
+    <heading alttoc="" refname="listing$1" type="code">Listing $1. $2</heading>
+$0
+</code>
+
+<p>

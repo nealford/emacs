@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: procedure
+# key: proc
+# --
+<procedure><title>$1</title>
+
+<step><para>
+$0
+</para></step>
+
+</procedure>

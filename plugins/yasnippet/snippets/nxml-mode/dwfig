@@ -1,0 +1,17 @@
+# DeveloperWorks Series for NXML
+# -*- mode: snippet -*-
+# name: dw- figure
+# key: dwfig
+# --
+<a href="#figure$1">Figure $1</a>.
+
+</p>
+
+
+<figure>
+    <heading refname="figure$1" type="figure" alttoc="">$2</heading>
+    <img src="figure$1.jpg" width="$3" height="$4" alt="$2" />
+</figure>
+
+<p>
+$0

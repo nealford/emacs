@@ -3,8 +3,8 @@
 ;; language modes  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; scala ;;;;;;;;;;;;;;;;
-;;(add-to-list 'load-path "~/work/emacs/scala")  
-;;(require 'scala-mode-auto)
+(add-to-list 'load-path "~/.emacs.d/scala")  
+(require 'scala-mode-auto)
 
 ;; customizations  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -23,7 +23,11 @@
 (add-to-list 'load-path "~/.emacs.d/color-theme")
 (require 'color-theme)
 (color-theme-initialize)
-(color-theme-arjen)
+;(color-theme-arjen)
+;(color-theme-charcoal-black)
+(color-theme-billw)
+
+
 
 ;; handy extensions ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -127,7 +131,7 @@
 (require 'shell)
 (require 'ruby-mode)
 
-;; little found functions ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; small (found) functions ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; found world count function
 (defun word-count nil "Count words in buffer" (interactive)
@@ -165,16 +169,49 @@
 (add-to-list 'load-path "~/opt/clojure-mode")
 (require 'clojure-mode)
 ;; swank-clojure
-(add-to-list 'load-path "~/opt/swank-clojure")
-(require 'swank-clojure-autoload)
-(swank-clojure-config
- (setq swank-clojure-jar-path "~/.clojure/clojure.jar")
-  (setq swank-clojure-extra-classpaths
-         (list "~/.clojure/clojure-contrib.jar")))
+;(add-to-list 'load-path "~/opt/swank-clojure")
+;(require 'swank-clojure-autoload)
+;(swank-clojure-config
+; (setq swank-clojure-jar-path "~/.clojure/clojure.jar")
+;  (setq swank-clojure-extra-classpaths
+;         (list "~/.clojure/clojure-contrib.jar")))
 ;; slime
-(eval-after-load "slime"
-  '(progn (slime-setup '(slime-repl))))
+;(eval-after-load "slime"
+;  '(progn (slime-setup '(slime-repl))))
 
-(add-to-list 'load-path "~/opt/slime")
-(require 'slime)
-(slime-setup)
+;(add-to-list 'load-path "~/opt/slime")
+;(require 'slime)
+;(slime-setup)
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+(when
+    (load
+     (expand-file-name "~/.emacs.d/elpa/package.el"))
+  (package-initialize))
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+(when
+    (load
+     (expand-file-name "~/.emacs.d/elpa/package.el"))
+  (package-initialize))
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+(when
+    (load
+     (expand-file-name "~/.emacs.d/elpa/package.el"))
+  (package-initialize))

@@ -1,4 +1,7 @@
 #contributor : Anders Bach Nielsen <abachn@abachn.net>
 #name : <p>...</p>
+#key: para
 # --
-<p>$1</p>
+<p>
+$0
+</p>

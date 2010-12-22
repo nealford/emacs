@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: dumps current file name into current document
-# key: fn
+# name: current file name
+# key: filename
 # --
 `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$0

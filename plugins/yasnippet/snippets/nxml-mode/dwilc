@@ -1,0 +1,5 @@
+# description: DevWorks inline code
+# name : dw- inline code   
+# key: dwilc
+# --
+<code type="inline">$1</code>$0 

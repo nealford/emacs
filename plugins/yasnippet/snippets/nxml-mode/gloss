@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: glossary entry
+# key: gloss
+# --
+<glossentry><glossterm>$1</glossterm>
+<glossdef>
+  <para>
+$2
+  </para>
+<glossseealso>$3</glossseealso>
+</glossdef>
+</glossentry>
+$0

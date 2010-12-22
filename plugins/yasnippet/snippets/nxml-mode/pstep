@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: procedure step
+# key: pstep
+# --
+<step><para>
+$0
+</para></step>

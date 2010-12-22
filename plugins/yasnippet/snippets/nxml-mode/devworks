@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: template for IBM DeveloperWorks articles
+# name: dw- template
 # key: devworks
 # --
 <?xml-stylesheet type="text/xsl" href="../xsl/5.12/dw-document-html-5.12.xsl"?>

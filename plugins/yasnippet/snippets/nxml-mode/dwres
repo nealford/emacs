@@ -1,0 +1,6 @@
+# DeveloperWorks Series for NXML
+#contributor : Neal Ford
+# name: dw- resources link
+# key: dwres
+# --
+<resource resource-category="Learn">$1<a href="$2">$3</a>$4</resource>$0

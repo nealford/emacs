@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: clojure slide reference
+# key: clojurex
+# --
+<li><b>Why Clo<i>j</i>ure?</b>&nbsp;[<i><a href="http://nealford.com/downloads/conferences/2010/Why_Clojure(Neal_Ford).pdf">slides</a></i>]

@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
 # contributor : Neal Ford
-# name: ptn
+# name: pattern
+# key: ptn
 # --
 <sect1 id="`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$1">
  <title>$2Pattern: <emphasis>$3</emphasis></title>

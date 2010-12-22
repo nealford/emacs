@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: para wrapper for docbook paragraphs
-# key: px
+# name: paragraph
+# key: p
 # --
 <para>
 $0

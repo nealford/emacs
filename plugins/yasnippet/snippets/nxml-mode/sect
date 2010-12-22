@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: sect
+# key: sect
+# --
+<sect${1:3}><title>$2</title>
+<para>
+$0
+</para>
+</sect$1>

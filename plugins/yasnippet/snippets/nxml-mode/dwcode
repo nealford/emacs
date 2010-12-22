@@ -1,0 +1,7 @@
+# DeveloperWorks Series for NXML
+#contributor : Neal Ford
+# name: dw- code block
+# key: dwcode
+# --
+<code type="section" width="100%">
+  <heading alttoc="" refname="listing1" type="code">Listing 1. Abstract Events for State Machine</heading>

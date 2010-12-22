@@ -1,0 +1,8 @@
+# DeveloperWorks Series for NXML
+#contributor : Neal Ford
+# name: dw- paragraph
+# key: dwp
+# --
+<p>
+$0
+</p>

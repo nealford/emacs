@@ -1,0 +1,5 @@
+# description: DevWorks heading
+# name : dw- head
+# key: dwhead
+# --
+<heading alttoc="" refname="$1" type="${2:major}">$3</heading>$0

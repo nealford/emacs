@@ -1,0 +1,12 @@
+# DeveloperWorks Series for NXML
+# -*- mode: snippet -*-
+# name: dw- sidebar
+# key: dwsidebar
+# --
+
+<sidebar width="">
+<heading altoc="" refname="" type="sidebar">$1</heading>
+<p>
+$0
+</p>
+</sidebar>
