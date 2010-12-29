@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# contributor : Neal Ford
+# name: block quote
+# key: bq
+# --
+<blockquote>
+<attribution>$1</attribution>
+<para>
+$2
+</para>
+</blockquote>
+

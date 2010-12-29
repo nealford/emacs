@@ -10,7 +10,7 @@
   <title>$2</title>
     <mediaobject>
       <imageobject role="print">
-        <imagedata width="100%" fileref="figs/print/`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`-fig$1.pdf"/>
+        <imagedata width="33%" fileref="figs/print/`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`-fig$1.pdf"/>
       </imageobject>
 
       <imageobject role="web">
