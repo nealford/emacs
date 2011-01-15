@@ -1,3 +1,6 @@
+# 2011-01-15: moving infrastructure to dropbox
+
+
 (setq load-path (cons "~/.emacs.d" load-path))
 
 ;; language modes  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
