@@ -1,0 +1,8 @@
+# name: sidebar
+# key: sidebar
+# --
+<sidebar><title>$1</title>
+<para>
+$0
+</para>
+</sidebar>

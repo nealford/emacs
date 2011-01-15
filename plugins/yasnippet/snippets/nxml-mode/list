@@ -1,0 +1,9 @@
+# name : ordered list
+# key: olist
+# --
+<orderedlist>
+<listitem><para>
+$1
+</para></listitem>
+$0
+</orderedlist>

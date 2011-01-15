@@ -1,0 +1,4 @@
+# name: link
+# key: link
+# --
+<link linkend="$1">$2</link>$0

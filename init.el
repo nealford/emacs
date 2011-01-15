@@ -25,9 +25,8 @@
 (color-theme-initialize)
 ;(color-theme-arjen)
 ;(color-theme-charcoal-black)
-(color-theme-billw)
-
-
+;(color-theme-billw)
+;(color-theme-clarity)
 
 ;; handy extensions ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -60,25 +59,6 @@
 (require 'magit)
 
 ;; snippets ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;; load up modes for msf-abbrev
-;(require 'ruby-mode)
-
-;; load up msf-abbrevs
-;(add-to-list 'load-path "~/.emacs.d/msf-abbrev")
-;; ensure abbrev mode is always on
-;(setq-default abbrev-mode t)
-;; do not bug me about saving my abbreviations
-;(setq save-abbrevs nil)
-
-;; msf-abbrev
-;(require 'msf-abbrev)
-;(setq msf-abbrev-verbose t) ;; optional
-;(setq msf-abbrev-root "~/.emacs.d/msf-abbrev/abbrevs")
-;(global-set-key (kbd "C-c l") 'msf-abbrev-goto-root)
-;(global-set-key (kbd "C-c a") 'msf-abbrev-define-new-abbrev-this-mode)
-;(msf-abbrev-load)
-
 
 ;; yasnippet
 (add-to-list 'load-path
@@ -194,24 +174,5 @@
      (expand-file-name "~/.emacs.d/elpa/package.el"))
   (package-initialize))
 
-
-;;; This was installed by package-install.el.
-;;; This provides support for the package system and
-;;; interfacing with ELPA, the package archive.
-;;; Move this code earlier if you want to reference
-;;; packages in your .emacs.
-(when
-    (load
-     (expand-file-name "~/.emacs.d/elpa/package.el"))
-  (package-initialize))
-
-
-;;; This was installed by package-install.el.
-;;; This provides support for the package system and
-;;; interfacing with ELPA, the package archive.
-;;; Move this code earlier if you want to reference
-;;; packages in your .emacs.
-(when
-    (load
-     (expand-file-name "~/.emacs.d/elpa/package.el"))
-  (package-initialize))
+;;; set the theme; it got moved here to see if something else was clobbering it
+(color-theme-hober)
