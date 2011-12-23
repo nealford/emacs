@@ -1,0 +1,4 @@
+# name : assert_equal
+# key: ase
+# --
+assert_equal $1, $2

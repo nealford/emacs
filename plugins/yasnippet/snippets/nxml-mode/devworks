@@ -2,47 +2,48 @@
 # name: dw- template
 # key: devworks
 # --
-<?xml-stylesheet type="text/xsl" href="../xsl/5.12/dw-document-html-5.12.xsl"?>
-<dw-document xmlns:dw="http://www.ibm.com/developerWorks/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/5.12/dw-document-5.12.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
 
+<dw-document xmlns:dw="http://www.ibm.com/developerWorks/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\schema\6.0\dw-document-6.0.xsd">
 
-<dw-article local-site="worldwide" skill-level="3" page-end-btt-link="yes">
+<dw-article auto-number="no" local-site="worldwide" skill-level="3" page-end-btt-link="yes">
 
-<id cma-id="0" domino-uid="" content-id="" original="yes"/>
+<id cma-id="" original="yes"/>
 
-<keywords content="emergent design, Neal Ford,$1"/>
+<keywords content="${1:TODO: keywords}"/>
 
 <meta-dctype>
-<cma-defined-type />
+<cma-defined-type/>
 </meta-dctype>
 
 <meta-dcsubject>
-<cma-defined-subject />
+<cma-defined-subject/>
 </meta-dcsubject>
 
-<meta-last-updated day="16" month="06" year="2009" initials="efc"/>
+<meta-last-updated day="08" month="04" year="2011" initials="efc"/>
 
-<content-area-primary name="java"/>
 
-<!--
+<content-area-primary name="java" />
+
 <tactic-code-urltactic>defaultHere</tactic-code-urltactic>
 
-<web-feed-autodiscovery feed-url="http://www.ibm.com/developerworks/podcast/channel-dwall.rss"  feed-title="IBM developerWorks podcasts" feed-type="rss"/> -->
-
 <series tactic="yes">
-<series-title>Evolutionary architecture and emergent design</series-title>
-<series-url>http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=evolutionary+architecture+emergent+design:</series-url>
+<series-title>Functional thinking</series-title>
+<series-url>http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=functional+thinking:</series-url>
 </series>
 <title>$2</title>
 
 <subtitle>$3</subtitle>
 
 <!-- <forum-url url="http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5" tactic="yes"/>
-http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5 -->
+ http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5 -->
+
+<pdf paperSize="common" size="56KB" pages="8"
+url="http://public.dhe.ibm.com/software/dw/java/template-dw-article-6.0-pdf.pdf" />
 
 <author jobtitle="Software Architect / Meme Wrangler" email-cc="jaloi@us.ibm.com" email="nford@thoughtworks.com" publish-email="yes">
 
-<bio>Neal Ford is Software Architect and Meme Wrangler at <b>Thought</b>Works, a global IT consultancy. He is also the designer and developer of applications, instructional materials, magazine articles, courseware, and video/DVD presentations, and he is the author or editor of books spanning a variety of technologies, including the most recent <a href="http://oreilly.com/catalog/9780596519780/"><i>The Productive Programmer</i></a>. He focuses on designing and building large-scale enterprise applications. He is also an internationally acclaimed speaker at developer conferences worldwide. Check out his <a href="http://www.nealford.com">Web site</a>.</bio>
+<bio>Neal Ford is Software Architect and Meme Wrangler at <strong>Thought</strong>Works, a global IT consultancy. He is also the designer and developer of applications, instructional materials, magazine articles, courseware, and video/DVD presentations, and he is the author or editor of books spanning a variety of technologies, including the most recent <a href="http://oreilly.com/catalog/9780596519780/"><em>The Productive Programmer</em></a>. He focuses on designing and building large-scale enterprise applications. He is also an internationally acclaimed speaker at developer conferences worldwide. Check out his <a href="http://www.nealford.com">Web site</a>.</bio>
 
 <img src="myphoto.jpg" width="64" height="80" alt="Neal Ford photo"/>
 <author-name>
@@ -59,7 +60,7 @@ http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5 -->
 <author jobtitle="">
 <cma-defined/>
 </author>
- -->
+-->
 
 <date-published day="05" month="12" year="2008"/>
 
@@ -69,19 +70,45 @@ http://www.ibm.com/developerworks/forums/dw_forum.jsp?forum=375&amp;cat=5 -->
 $4
 </abstract-extended>
 
-<docbody> <!-- 468 -->
-$5
-</docbody>
-<trademarks>
-<trademark>Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in the United States, other countries, or both.</trademark>
-</trademarks>
+<docbody>
 
+<sidebar>
+<heading alttoc="" refname="" type="sidebar">About this series</heading>
+<p>This series aims to reorient your perspective toward a functional mindset, helping you look at common problems in new ways and find ways to improve your day-to-day coding. It explores functional programming concepts, frameworks that allow functional programming within the Java language, functional programming languages that run on the JVM, and some future-leaning directions of language design. The series is geared toward developers who know Java and how its abstractions work but have little or no experience using a functional language.</p>
+</sidebar> 
+
+$5
+
+<heading alttoc="" refname="" type="major">Conclusion</heading>
+<p>
+
+</p>
+</docbody>
+
+    
 <resources>
-<resource resource-category="Learn"><a href="http://oreilly.com/catalog/9780596519780/"><i>The Productive Programmer</i></a> (Neal Ford, O'Reilly Media, 2008): Neal Ford's most recent book expands on a number of the topics in this series.</resource>
+<resource resource-category="Learn"><a href="http://oreilly.com/catalog/9780596519780/"><em>The Productive Programmer</em></a> (Neal Ford, O'Reilly Media, 2008): Neal Ford's most recent book expands on a number of the topics in this series.</resource>
+
+<resource resource-category="Learn"><a href="http://en.wikipedia.org/wiki/Monad_(functional_programming)">Monads</a>: Monads, a legendarily hairy subject in functional languages, will be covered in a future installment of this series.</resource> 
+     
+<resource resource-category="Learn"><a href="http://www.scala-lang.org/">Scala</a>: Scala is a modern, functional language on the JVM.</resource>
+
+<resource resource-category="Learn"><a href="http://clojure.org/">Clojure</a>: Clojure is a modern, functional Lisp that runs on the JVM.</resource>
+
+<resource resource-category="Learn"><a href="http://akka.io/">Akka</a>: Akka is a framework for Java that allows sophisticated actor-based concurrency.</resource>
+
+<resource resource-category="Learn"><a href="http://functionaljava.org/">Functional Java</a>: Functional Java is a framework that adds many functional language constructs to Java.</resource>
+
+<resource resource-category="Learn"><a href="http://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional/dp/0201633612/ref%3Dsr_1_1%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1236221690%26sr%3D1-1"><i>Design Patterns: Elements of Reusable Object-Oriented Software</i></a> (Erich Gamma et al., Addison-Wesley, 1994): The Gang of Four's classic work on design patterns.
+</resource>
 
 <resource resource-category="Learn">
-Browse the
-<a href="http://www.ibm.com/developerworks/apps/SendTo?bookstore=safari">technology bookstore</a> for books on these and other technical topics.
+"<a href="http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html">Execution in the Kingdom of Nouns</a>" (Steve Yegge, March 2006): An entertaining rant about some aspects of Java language design.
+</resource> 
+
+
+<resource resource-category="Learn">
+Browse the <a href="http://www.ibm.com/developerworks/apps/SendTo?bookstore=safari">technology bookstore</a> for books on these and other technical topics.
 </resource>
 
 <resource resource-category="Learn">
@@ -92,10 +119,11 @@ Browse the
 Check out <a href="http://www.ibm.com/developerworks/blogs/">developerWorks blogs</a> and get involved in the <a href="http://www.ibm.com/developerworks/community">developerWorks community</a>.
 </resource>
 
-
-
 <resource resource-category="Get products and technologies"> Download <a href="http://www.ibm.com/developerworks/downloads/" onmouseover="linkQueryAppend(this)">IBM product evaluation versions</a> or <a href="http://www.ibm.com/developerworks/downloads/soasandbox/" onmouseover="linkQueryAppend(this)">explore the online trials in the IBM SOA Sandbox</a> and get your hands on application development tools and middleware products from DB2<reg/>, Lotus<reg/>, Rational<reg/>, Tivoli<reg/>, and WebSphere<reg/>.</resource>
 </resources>
 </dw-article>
 </dw-document>
+
+
+
 

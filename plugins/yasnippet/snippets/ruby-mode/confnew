@@ -1,0 +1,9 @@
+# name: New conference template
+# key: confnew
+# --
+Conference.new("${1:Name}",
+               "${2:Date range}",
+               "${3:Image}",
+               "${4:URI}",
+               "${5:Location}",
+               [${6:talks}]),

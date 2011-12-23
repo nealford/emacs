@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: dw- coderef
+# key: dwcr
+# --
+<a href="#listing$1">Listing $1</a>

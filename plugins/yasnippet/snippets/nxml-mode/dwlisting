@@ -2,7 +2,7 @@
 #name : dw- listing
 # key: dwlisting
 # --
-<a href="#listing$1">Listing $1</a>.
+Listing $1.
 </p>
 
 <code type="section" width="100%">

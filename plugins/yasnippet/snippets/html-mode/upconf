@@ -2,11 +2,11 @@
 # key: upconf
 # --
 <tr>
-  <td style="text-align: center;"><a href="$1 "><img src="${2:images/}$3" width="180" height="150" border="0" alt="$4"></a></td>
+  <td style="text-align: center;"><a href="$1 "><img src="${2:images/}$3" width="${4:180}" height="${5:150}" border="0" alt="$6"></a></td>
   <td>
-  <h1><a href="$1">$5</a></h1>
- <h1>$6</h1> 
-  <h1>$7,  2010</h1>
+  <h1><a href="$1">${7:name}</a></h1>
+ <h1>${8:location}</h1> 
+  <h1>${9:date-range}, 2011</h1>
 </td></tr>
 
 $0

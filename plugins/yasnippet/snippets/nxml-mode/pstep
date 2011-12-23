@@ -3,5 +3,6 @@
 # key: pstep
 # --
 <step><para>
-$0
+$1
 </para></step>
+$2

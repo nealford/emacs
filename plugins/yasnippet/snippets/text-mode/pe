@@ -1,0 +1,11 @@
+# Shortcuts for adding events for ThoughtWorks Perspectives
+# name: perspective-entry
+# key: pe
+# --
+Event: $1
+Description:
+$2
+URL: $3
+Dates: $4
+My talks: 
+$5

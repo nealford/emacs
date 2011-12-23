@@ -5,7 +5,7 @@
 <procedure><title>$1</title>
 
 <step><para>
-$0
+$1
 </para></step>
-
+$2
 </procedure>

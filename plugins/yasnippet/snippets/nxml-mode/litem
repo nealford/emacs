@@ -1,7 +1,8 @@
 # name: list item
 # key: litem
 # --
-<listitem><para>
+<listitem>
+<para>
 $0
 </para>
 </listitem>

@@ -1,0 +1,9 @@
+# name: New NFJS conference template
+# key: nfjsnew
+# --
+Conference.new("${1:Prelude} Software Symposium",
+               "${2:Date range}",
+               "NOFL_125x125A_speaking_110427.jpg",
+               "${3:URI}",
+               "${4:Location}",
+               [${5:talks}]),

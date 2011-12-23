@@ -2,19 +2,19 @@
 # name: figures
 # key: fig
 # --
-<xref linkend ="${1:pattern-name}-fig$2" />.
+<xref linkend ="fig.${1:pattern}_${2:name}" />.
 
 </para>
 
-<figure id="$1-fig$2">
+<figure id="fig.$1_$2">
   <title>$3</title>
     <mediaobject>
       <imageobject role="print">
-        <imagedata width="33%" fileref="figs/print/$1-fig$2.pdf"/>
+        <imagedata width="33%" fileref="figs/print/$1_$2.pdf"/>
       </imageobject>
 
       <imageobject role="web">
-        <imagedata width="40%" fileref="figs/web/$1-fig$2.png"/>
+        <imagedata width="40%" fileref="figs/web/$1_$2.png"/>
       </imageobject>
   </mediaobject>
 </figure>

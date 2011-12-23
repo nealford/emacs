@@ -4,7 +4,7 @@
 # key: ptn
 # --
 <!-- $3 -->
-<sect1 id="`(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.$1">
+<sect1 id="pattern.${1:patternname}">
  <title>$2Pattern: <emphasis>$3</emphasis></title>
 
 <sect2>

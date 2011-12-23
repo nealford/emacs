@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: dw-codeblock
+# key: dwcb
+# --
+<code type="section" width="100%">
+  <heading alttoc="" refname="listing1" type="code">Listing $1.$2</heading>
+$0
+</code>

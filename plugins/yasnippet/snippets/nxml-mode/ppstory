@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: ppStory
+# key: ppstory
+# --
+<sect1 id="story.$1">
+
+<title>$2</title>
+<blockquote>
+<para>
+$0
+</para>  
+</blockquote>
+</sect1>

@@ -1,0 +1,11 @@
+# name: itemized item
+# key: ilist
+# --
+<itemizedlist>
+<listitem>
+<para>
+$0
+</para>
+</listitem>
+
+</itemizedlist>
