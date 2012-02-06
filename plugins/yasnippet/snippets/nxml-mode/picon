@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: picon
+# key: picon
+# --
+<!-- Pattern Symbol -->
+    <informalfigure float="1" floatstyle="left">
+    <!-- left, right, start, end, inside, outside, before, none -->
+      <mediaobject>
+          <imageobject role="print">
+              <imagedata width="20%" fileref="figs/print/icon_$1.pdf"/>
+          </imageobject>
+          <imageobject role="web">
+              <imagedata width="20%" fileref="figs/web/icon_$1.png"/>
+          </imageobject>
+      </mediaobject>
+    </informalfigure>
+
+$0

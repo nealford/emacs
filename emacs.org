@@ -1,0 +1,204 @@
+
+* Customizations
+** disabling annoying defaults
+#+begin_src emacs-lisp
+(put 'set-goal-column 'disabled nil)
+#+end_src
+** make windows a little transparent
+#+begin_src
+(setq transparency-level 90)
+(set-frame-parameter nil 'alpha transparency-level)
+(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
+#+end_src
+** keys
+*** setup keyboard type 
+#+begin_src emacs-lisp
+(set-keyboard-coding-system 'mac-roman)
+#+end_src
+*** alt key == meta
+#+begin_src emacs-lisp
+(setq mac-option-modifier 'meta)
+#+end_src
+*** disable downcase region because of key conflict
+#+begin_src emacs-lisp
+(put 'downcase-region 'disabled nil)
+#+end_src
+*** shortcuts for "other window" window movement
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-x C-n") 'other-window)
+(global-set-key (kbd "C-x C-p") 'other-window-backward)
+#+end_src
+*** added shortcut for "wrap region with tag"
+#+begin_src
+(global-set-key (kbd "C-c w") 'wrap-region-with-tag)
+#+end_src
+*** org mode shortcuts
+#+begin_src emacs-lisp
+(global-set-key "\C-cl" 'org-store-link)
+(global-set-key "\C-cc" 'org-capture)
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cb" 'org-iswitchb)
+#+end_src
+*** keys for lusty explorer
+#+begin_src emacs-lisp
+(global-set-key (kbd "<f5>") 'lusty-file-explorer)
+(global-set-key (kbd "<f6>") 'lusty-buffer-explorer)
+#+end_src
+*** kill "tabbed editor windows" as a concept
+#+begin_src emacs-lisp
+(tabbar-mode 0)
+#+end_src
+*** replace shitty old buffer display with ibuff
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-x C-b") 'ibuffer-list-buffers)
+#+end_src
+*** killer flyspell-check-previous-highlighted-word keybinding
+#+begin_src
+(global-set-key (kbd "C-c j") 'flyspell-check-previous-highlighted-word)
+#+end_src
+
+* Color Themes
+** load them up
+#+begin_src emacs-lisp
+(add-to-list 'load-path "~/.emacs.d/color-theme")
+(require 'color-theme)
+(color-theme-initialize)
+#+end_src
+** some favorite themes
+#+begin_src emacs-lisp
+;(color-theme-arjen)
+;(color-theme-charcoal-black)
+;(color-theme-billw)
+(color-theme-clarity)
+;(color-theme-calm-forest)
+;(color-theme-lethe)
+#+end_src
+
+
+
+* MobileOrg
+** directories and such
+#+begin_src emacs-lisp
+(setq org-mobile-directory "~/Dropbox/MobileOrg")
+(setq org-directory "~/work/ppap/Notes,_Minutes,_Ideas,_Outlines/outlines")
+(setq org-mobile-inbox-for-pull "~/Dropbox/MobileOrg")
+#+end_src
+
+* My functions
+** Clean devworks code
+  Clean devworks listings (currently not working)
+#+begin_src emacs-lisp
+  (defun clean-code nil "Clean up code listings for XML embedation"
+  (interactive)
+  (query-replace "<" "lt;")
+  (query-replace ">" "gt;")
+  (query-replace "&" "&amp;"))
+#+end_src
+** Window functions
+handy windowing function, based on Emacs Extensions book
+#+begin_src emacs-lisp
+(defun other-window-backward (&optional n)
+  "Select the previous window."
+  (interactive "P")
+  (other-window (- (prefix-numeric-value n))))
+#+end_src
+** Found simple word count function
+#+begin_src emacs-lisp
+(defun word-count nil "Count words in buffer" (interactive)
+(shell-command-on-region (point-min) (point-max) "wc -w"))
+#+end_src
+
+* Langauge modes
+** scheme
+#+begin_src emacs-lisp
+   (setenv "MITSCHEME_LIBRARY_PATH"  "/Applications/mit-scheme.app/Contents/Resources")
+#+end_src
+** scala
+#+begin_src emacs-lisp
+(add-to-list 'load-path "~/.emacs.d/scala")  
+(require 'scala-mode-auto)
+#+end_src
+** groovy
+#+begin_src emacs-lisp
+(autoload 'groovy-mode "groovy-mode" "Groovy editing mode." t)
+(add-to-list 'auto-mode-alist '("\.groovy$" . groovy-mode))
+(add-to-list 'interpreter-mode-alist '("groovy" . groovy-mode))
+
+;; some path munging to make Groovy happier
+(defvar lib-dir "/Users/nford/bin/")
+(setenv "GROOVY_HOME" (concat lib-dir "groovy-1.7.10"))
+(setenv "PATH" (concat (getenv "PATH")
+		       ":" (getenv "GROOVY_HOME") "/bin"))
+#+end_src
+** markdown
+#+begin_src emacs-lisp
+(setenv "PATH" (concat (getenv "PATH") ":" lib-dir "markdown/markdown"))
+#+end_src
+** 
+
+* extensions
+** Minimap
+Emulates Sublime Text's minimap with a real buffer
+#+begin_src
+ (require 'minimap)
+#+end_src
+** DocBook
+Docbook support
+#+begin_src emacs-lisp
+(autoload 'docbook-xml-mode "docbook-xml-mode" "Major mode for
+Docbook" t)
+#+end_src
+** Flyspell
+#+begin_src emacs-lisp
+(autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
+(setq-default flyspell-mode t)
+(dolist (hook '(markdown-mode-hook))
+  (add-hook hook (lambda () (flyspell-mode 1))))
+#+end_src
+** ido
+#+begin_src emacs-lisp
+(require 'ido)
+(ido-mode t)
+(setq ido-enable-flex-matching t)
+#+end_src
+** YAS
+#+begin_src emacs-lisp
+(require 'yasnippet) ;; not yasnippet-bundle
+(yas/initialize)
+(yas/load-directory "~/.emacs.d/plugins/yasnippet/snippets")
+
+;; reset some keys to help recursive expansion
+(define-key yas/keymap [tab] 'yas/expand)
+#+end_src
+** word count minor mode
+Minor mode to count words.
+#+begin_src emacs-lisp
+(autoload 'word-count-mode "word-count"
+          "Minor mode to count words." t nil)
+(global-set-key "\M-+" 'word-count-mode)
+#+end_src
+** emacs tile
+#+begin_src emacs-lisp
+(require 'emacsd-tile)
+#+end_src
+
+* Associations
+** markdown
+#+begin_src emacs-lisp
+(autoload 'markdown-mode "markdown-mode.el"
+   "Major mode for editing Markdown files" t)
+(setq auto-mode-alist
+   (cons '("\\.md" . markdown-mode) auto-mode-alist))
+#+end_src
+** html mode (not helper mode) for html files
+#+begin_src emacs-lisp
+(setq auto-mode-alist (cons '("\\.html?$" . html-mode) auto-mode-alist))
+#+end_src
+** Rake files are ruby too
+#+begin_src emacs-lisp
+(add-to-list 'auto-mode-alist '("Rakefile$" . ruby-mode))
+(add-to-list 'auto-mode-alist '("\\.rake$" . ruby-mode))
+#+end_src
+
+
+#+STARTUP: nohideblocks indent
