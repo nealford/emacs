@@ -22,6 +22,9 @@
 
 (global-set-key (kbd "C-x C-b") 'ibuffer-list-buffers)
 
+(global-set-key (kbd "<f8>") 'bookmark-jump)
+(global-set-key (kbd "<f7>") 'bookmark-set)
+
 (add-to-list 'load-path "~/.emacs.d/color-theme")
 (require 'color-theme)
 (color-theme-initialize)
@@ -51,6 +54,20 @@
 (defun word-count nil "Count words in buffer" (interactive)
 (shell-command-on-region (point-min) (point-max) "wc -w"))
 
+(defun wrap-tag-lines (b e tag)
+  "'tag' every line in the region with a tag"
+  (interactive "r\nMTag for line: ")
+  (save-restriction
+    (narrow-to-region b e)
+    (save-excursion
+      (goto-char (point-min))
+      (while (< (point) (point-max))
+        (beginning-of-line)
+        (insert (format "<%s>" tag))
+        (end-of-line)
+        (insert (format "</%s>" tag))
+        (forward-line 1)))))
+
 (setenv "MITSCHEME_LIBRARY_PATH"  "/Applications/mit-scheme.app/Contents/Resources")
 
 (add-to-list 'load-path "~/.emacs.d/scala")  
@@ -60,7 +77,6 @@
 (add-to-list 'auto-mode-alist '("\.groovy$" . groovy-mode))
 (add-to-list 'interpreter-mode-alist '("groovy" . groovy-mode))
 
-;; some path munging to make Groovy happier
 (defvar lib-dir "/Users/nford/bin/")
 (setenv "GROOVY_HOME" (concat lib-dir "groovy-1.7.10"))
 (setenv "PATH" (concat (getenv "PATH")
@@ -71,10 +87,19 @@
 (autoload 'docbook-xml-mode "docbook-xml-mode" "Major mode for
 Docbook" t)
 
+(require 'flyspell)
+(autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
+(setq-default flyspell-mode t)
+
+;; auto-load for flyspell mode
+(dolist (hook '(markdown-mode-hook))
+  (add-hook hook (lambda () (flyspell-mode 1))))
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
 (setq-default flyspell-mode t)
 (dolist (hook '(markdown-mode-hook))
   (add-hook hook (lambda () (flyspell-mode 1))))
+;; killer flyspell-check-previous-highlighted-word keybinding
+(global-set-key (kbd "C-c j") 'flyspell-check-previous-highlighted-word)
 
 (require 'ido)
 (ido-mode t)

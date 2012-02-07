@@ -41,4 +41,4 @@
  )
 
 ;; load neatly organized org file!
-(org-babel-load-file "~/.emacs.d/emacs.org")
+(org-babel-load-file "~/.emacs.d/emacs-config.org")

@@ -52,9 +52,10 @@
 #+begin_src emacs-lisp
 (global-set-key (kbd "C-x C-b") 'ibuffer-list-buffers)
 #+end_src
-*** killer flyspell-check-previous-highlighted-word keybinding
-#+begin_src
-(global-set-key (kbd "C-c j") 'flyspell-check-previous-highlighted-word)
+*** add better keys for bookmark set & retrieve
+#+begin_src emacs-lisp
+(global-set-key (kbd "<f8>") 'bookmark-jump)
+(global-set-key (kbd "<f7>") 'bookmark-set)
 #+end_src
 
 * Color Themes
@@ -107,11 +108,27 @@ handy windowing function, based on Emacs Extensions book
 (defun word-count nil "Count words in buffer" (interactive)
 (shell-command-on-region (point-min) (point-max) "wc -w"))
 #+end_src
+** wrap each line in the selected region with a begin-end tag
+#+begin_src emacs-lisp
+(defun wrap-tag-lines (b e tag)
+  "'tag' every line in the region with a tag"
+  (interactive "r\nMTag for line: ")
+  (save-restriction
+    (narrow-to-region b e)
+    (save-excursion
+      (goto-char (point-min))
+      (while (< (point) (point-max))
+        (beginning-of-line)
+        (insert (format "<%s>" tag))
+        (end-of-line)
+        (insert (format "</%s>" tag))
+        (forward-line 1)))))
+#+end_src
 
 * Langauge modes
 ** scheme
 #+begin_src emacs-lisp
-   (setenv "MITSCHEME_LIBRARY_PATH"  "/Applications/mit-scheme.app/Contents/Resources")
+(setenv "MITSCHEME_LIBRARY_PATH"  "/Applications/mit-scheme.app/Contents/Resources")
 #+end_src
 ** scala
 #+begin_src emacs-lisp
@@ -119,12 +136,12 @@ handy windowing function, based on Emacs Extensions book
 (require 'scala-mode-auto)
 #+end_src
 ** groovy
+setup and some path munging to make Groovy happier
 #+begin_src emacs-lisp
 (autoload 'groovy-mode "groovy-mode" "Groovy editing mode." t)
 (add-to-list 'auto-mode-alist '("\.groovy$" . groovy-mode))
 (add-to-list 'interpreter-mode-alist '("groovy" . groovy-mode))
 
-;; some path munging to make Groovy happier
 (defvar lib-dir "/Users/nford/bin/")
 (setenv "GROOVY_HOME" (concat lib-dir "groovy-1.7.10"))
 (setenv "PATH" (concat (getenv "PATH")
@@ -134,7 +151,6 @@ handy windowing function, based on Emacs Extensions book
 #+begin_src emacs-lisp
 (setenv "PATH" (concat (getenv "PATH") ":" lib-dir "markdown/markdown"))
 #+end_src
-** 
 
 * extensions
 ** Minimap
@@ -150,10 +166,19 @@ Docbook" t)
 #+end_src
 ** Flyspell
 #+begin_src emacs-lisp
+(require 'flyspell)
+(autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
+(setq-default flyspell-mode t)
+
+;; auto-load for flyspell mode
+(dolist (hook '(markdown-mode-hook))
+  (add-hook hook (lambda () (flyspell-mode 1))))
 (autoload 'flyspell-mode "flyspell" "On-the-fly spelling checker." t)
 (setq-default flyspell-mode t)
 (dolist (hook '(markdown-mode-hook))
   (add-hook hook (lambda () (flyspell-mode 1))))
+;; killer flyspell-check-previous-highlighted-word keybinding
+(global-set-key (kbd "C-c j") 'flyspell-check-previous-highlighted-word)
 #+end_src
 ** ido
 #+begin_src emacs-lisp
